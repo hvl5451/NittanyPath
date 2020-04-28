@@ -5,11 +5,9 @@ from django.contrib.auth.decorators import login_required
 from collections import defaultdict
 from datetime import date
 
-from .forms import PostForm, CommentsForm
 from .models import *
 
 
-# Create your views here.
 # TODO: Check if Prof or Student is available first?
 @login_required()
 def home(request):
@@ -93,6 +91,7 @@ def course(request, course_id, sec_no):
 
 @login_required()
 def account(request):
+    # Display account information
     context = {}
     if request.session.get('isStudent', False):
         user = Students.objects.get(pk=request.user.username)
@@ -232,12 +231,10 @@ def discussion(request, course_id, sec_no):
             post.save()
             print(post)
 
-    form = PostForm()
     context = {
         'post_list': [(obj.email.name, obj.post_no, obj.post_info, obj.id) for obj in post_obj],
         'course': course_id,
         'sec_no': sec_no,
-        'form': form,
     }
 
     print(post_obj)
