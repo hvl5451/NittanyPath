@@ -1,0 +1,1001 @@
+name,email,age,zipcode,gender,password,street,major
+Alisa Lynch,al4613@nittany.edu,19,62901,F,ixg1libp,78 South Brewery Ave. ,CHEM
+Alisha Murray,am4447@nittany.edu,21,46376,F,4eystjwe,639 Princeton Rd. ,CMPSC
+Alice Kiehn,ak9804@nittany.edu,20,30529,M,p0ulbn26,8985 Cambridge Ave. ,PHYS
+Anastasia Shields,as1233@nittany.edu,18,72571,F,06e84eor,55 Hall St. ,CSE
+Alyce Leuschke Jr.,al5684@nittany.edu,21,80104,M,ev4n7hoh,232 W. Homewood Ave. ,PHYS
+Althea Leuschke,al6759@nittany.edu,21,91042,F,oqt6byzj,608 North Addison St. ,PHYS
+Alysa Hintz,ah2567@nittany.edu,20,52041,F,d797xc1r,7764 Union Avenue ,EE
+Alisha Beier,ab8825@nittany.edu,21,33162,M,gr1wwq45,91 S. Gartner Street ,CSE
+Anastacio Krajcik,ak1365@nittany.edu,18,86426,F,uy8t28xc,7195 North Canterbury Circle ,DS
+Alfonso Torp,at2037@nittany.edu,18,80820,F,dfo34diu,963 Court Road ,PHYS
+Alexis Schulist,as3627@nittany.edu,22,62943,M,l55ah9nv,9599 La Sierra St. ,CMPEN
+Alicia Harber,ah3078@nittany.edu,22,62684,F,a1uqkqum,83 Corona Street ,MATH
+Amiya Bogisich II,ab8389@nittany.edu,18,47360,M,h18e8b5s,361 E. Sierra Street ,MATH
+Alfredo Trantow,at1813@nittany.edu,20,46121,F,wxl0jmfp,7450 West Manchester Street ,CMPSC
+Alysson Okuneva,ao8250@nittany.edu,20,62824,F,o81zf7vv,863 Stillwater Road ,MATH
+Anabel Littel,al8826@nittany.edu,22,30277,M,4n61e74y,798 North Euclid Drive ,EE
+Alycia Berge,ab4479@nittany.edu,20,50244,F,frmyglmo,8687 N. Sleepy Hollow Court ,EE
+Ali Ledner,al5806@nittany.edu,19,71602,F,ougfoqn0,608 North Addison St. ,STAT
+Angela Jast Jr.,aj1457@nittany.edu,19,33847,M,nthuiyec,141 Gulf Rd. ,STAT
+Amely Rohan,ar7586@nittany.edu,18,39834,F,5h880la6,18 Lakeview Street ,PHYS
+Amaya Mosciski,am6718@nittany.edu,19,32927,F,wd5xogip,7764 Union Avenue ,CMPSC
+Alexys Stanton,as4057@nittany.edu,21,61870,M,93fj0cwc,9659 Rosewood Drive ,EE
+Allene Zulauf,az6923@nittany.edu,22,96058,M,mg8nk8d5,358 Marvon Ave. ,ECON
+Alysa Bosco Sr.,ab9912@nittany.edu,19,62884,F,gjgm1fqt,7529 Old Sunset Road ,EE
+Amie Pacocha,ap8429@nittany.edu,18,60932,M,uh69s5qo,608 North Addison St. ,ECON
+Amara Gaylord,ag4728@nittany.edu,22,30078,F,h5rqfz6v,780 East Redwood Drive ,PHYS
+Americo Mitchell,am5109@nittany.edu,19,62320,M,viq0h6xe,9498 Newport Ave. ,MATH
+Alivia Brown DDS,ab3717@nittany.edu,21,33035,F,tr7phe04,780 East Redwood Drive ,CHEM
+Alexane Hermann,ah5707@nittany.edu,21,60613,F,t4v6sg4w,88 Harrison Street ,ECON
+Amaya Denesik,ad9791@nittany.edu,19,62530,F,pt2zj3ku,639 Princeton Rd. ,CHEM
+Andre Will,aw2983@nittany.edu,22,51573,F,9gbzyxsk,8687 N. Sleepy Hollow Court ,CMPSC
+Lenna Jewess Sr.,lj2993@nittany.edu,19,31216,F,p7yiphsy,7313 Stillwater Lane ,DS
+Rosie Bruen,rb1832@nittany.edu,21,61252,M,mn60ih69,453 North Elm Dr. ,CSE
+Lorenzo Dickens,ld8122@nittany.edu,19,50515,M,1vnxmx51,8131 Elizabeth Ave. ,CSE
+Marjorie Dickinson,md5914@nittany.edu,19,32925,F,cjiicgr5,963 Court Road ,CMPEN
+Keon Fadel,kf8268@nittany.edu,21,94601,M,m0bdut14,7764 Union Avenue ,CMPEN
+Penelope Ziemann,pz6665@nittany.edu,22,85354,F,7j7rei4g,185 E. Trenton Street ,STAT
+Maximilian Ruecker,mr6639@nittany.edu,21,34609,M,2mjlwhvc,308 Mammoth Dr. ,CSE
+Samanta Collier,sc5452@nittany.edu,18,30523,M,p8ieksdz,7297 Applegate St. ,CSE
+Tyree Pacocha,tp8468@nittany.edu,22,34210,M,od1asurx,7529 Old Sunset Road ,CHEM
+Ima Hilll,ih9335@nittany.edu,22,80652,F,d5mus3og,9498 Newport Ave. ,CHEM
+Miss Ellsworth Goyette,me9525@nittany.edu,20,52776,M,61ip5i1a,266 Second Street ,IST
+Pasquale Ritchie,pr4075@nittany.edu,21,52571,M,09vhc6ga,232 W. Homewood Ave. ,IST
+Nicolas Kunde,nk8056@nittany.edu,19,96132,F,1vpw660p,83 Corona Street ,CMPSC
+Jaunita Zemlak,jz5577@nittany.edu,22,20390,M,9z5xs7i4,6 Andover Dr. ,CHEM
+Jaunita Paucek,jp2632@nittany.edu,18,91106,F,6f4h1qhw,7297 Applegate St. ,CMPSC
+Luisa Keebler,lk7361@nittany.edu,21,94947,F,i15k2z5c,251 West Sheffield Drive ,STAT
+Karli Streich DDS,ks1880@nittany.edu,20,30339,M,a31lbs06,9236 El Dorado St. ,EE
+Miss Stanton Hyatt,ms2404@nittany.edu,20,32164,F,xbodkb1p,63 Lake Forest Road ,PHYS
+Isobel Hudson,ih5431@nittany.edu,20,81240,F,c6m8qq2y,9408 Anderson Court ,CMPSC
+Shaun Marvin,sm4115@nittany.edu,20,72852,F,cyr5laao,8985 Cambridge Ave. ,STAT
+Justina Schuster,js8078@nittany.edu,19,95337,M,juqc63zz,285 Dogwood Drive ,DS
+Manuela Blick,mb4117@nittany.edu,18,50231,F,iqt9wnaq,963 Court Road ,STAT
+Reina McLaughlin Jr.,rm8585@nittany.edu,18,86042,F,zibhv380,7313 Stillwater Lane ,DS
+Miss Gennaro Torphy,mg1976@nittany.edu,18,46347,F,hhoz4znw,863 Stillwater Road ,EE
+Kaleb Carter MD,kc4364@nittany.edu,20,80816,M,o19o3kra,639 Princeton Rd. ,CMPEN
+Reva Hirthe,rh2046@nittany.edu,18,47469,F,cz4rv678,141 Gulf Rd. ,CSE
+Jennie Haag,jh2885@nittany.edu,19,85251,M,e3gvatua,185 E. Trenton Street ,IST
+Mikayla Senger,ms9362@nittany.edu,21,94107,F,t97xa8jr,7313 Stillwater Lane ,EE
+Janis Leffler,jl6447@nittany.edu,20,91203,M,hza255xn,182 Spring Street ,MATH
+Maverick Rempel,mr2329@nittany.edu,22,52737,F,u50mz2ki,7195 North Canterbury Circle ,MATH
+Myrtice Armstrong,ma5503@nittany.edu,20,46324,F,ql6wokcz,7313 Stillwater Lane ,ECON
+Roy Boehm,rb4971@nittany.edu,22,62358,F,6ch26zsv,91 S. Gartner Street ,CMPEN
+Jackie Considine,jc5818@nittany.edu,19,50851,F,zrziiod8,91 S. Gartner Street ,CMPSC
+Kristofer Gusikowski,kg2618@nittany.edu,21,92008,M,c6zw7xeq,9408 Anderson Court ,DS
+Letitia Graham,lg4120@nittany.edu,19,61274,F,td7qer7k,3 North Linden Ave. ,STAT
+Skye Graham,sg2123@nittany.edu,22,95425,F,885lnlgn,266 Second Street ,CMPEN
+Thora Predovic Sr.,tp3946@nittany.edu,19,47434,F,3w4nls9b,285 Dogwood Drive ,CMPSC
+Suzanne Botsford,sb5076@nittany.edu,19,85192,F,9yzoqecx,3 North Linden Ave. ,CMPEN
+Mr. Hallie Crooks,mh2221@nittany.edu,18,30755,M,ldrwndyy,78 South Brewery Ave. ,ECON
+Vilma Sauer,vs8351@nittany.edu,22,30113,M,zagzjbh5,120 Heritage Lane ,PHYS
+Mrs. Marlee Ward,mm1324@nittany.edu,21,6066,M,5zsqvzsa,7195 North Canterbury Circle ,CMPSC
+Theresa Glover,tg2289@nittany.edu,21,80615,M,mujxipgm,708 York Dr. ,STAT
+Meredith Kuhlman DVM,mk4648@nittany.edu,22,62888,M,5tplvmde,336 Myrtle Street ,MATH
+Santino Altenwerth,sa8884@nittany.edu,21,83616,F,h4hxgcq7,8378 West Pulaski Ave. ,MATH
+Kiley Nienow PhD,kn1468@nittany.edu,20,92624,F,56evzicb,285 Dogwood Drive ,MATH
+Joe Kirlin DDS,jk5833@nittany.edu,21,50654,M,8axiqzsa,87 Vermont St. ,CSE
+Malvina DuBuque,md1699@nittany.edu,18,81332,F,7zez3zsk,88 Harrison Street ,ECON
+Mrs. Chasity Schamberger,mc4814@nittany.edu,20,95231,M,7vx7covg,7450 West Manchester Street ,CMPSC
+Lucius Lakin,ll2646@nittany.edu,20,32359,F,yt1zlei9,7130 Longfellow Dr. ,PHYS
+Mariane Reilly,mr3369@nittany.edu,22,52569,M,1c8zbevj,453 North Elm Dr. ,IST
+Tara Baumbach,tb7100@nittany.edu,19,46310,M,0m29rudy,963 Court Road ,CSE
+Wilfred Moen,wm3293@nittany.edu,20,72383,M,vohtstyp,7529 Old Sunset Road ,PHYS
+Jodie Brekke Sr.,jb9557@nittany.edu,21,96103,M,rhw24sr5,8985 Cambridge Ave. ,CHEM
+Kristopher O'Connell,ko8881@nittany.edu,21,30341,F,88zlsj5j,7764 Union Avenue ,CMPSC
+Zackary Johnson,zj6533@nittany.edu,18,94107,F,t2ujdmui,7297 Applegate St. ,ECON
+Max Bashirian,mb4756@nittany.edu,18,32754,F,obmm3eek,608 North Addison St. ,ECON
+Marietta Runolfsson,mr3556@nittany.edu,21,33778,F,xkuhje6t,708 York Dr. ,CMPSC
+Ms. Devante Frami,md3813@nittany.edu,21,93004,F,kr7ql6nc,7195 North Canterbury Circle ,CHEM
+Kali Mills,km6173@nittany.edu,19,51031,M,re55bd6w,185 E. Trenton Street ,MATH
+Shaun Glover,sg3060@nittany.edu,22,61742,F,lfd2z2k3,182 Spring Street ,IST
+Mariana Stokes,ms7605@nittany.edu,19,32780,M,t2xd9avn,266 Second Street ,MATH
+Tommie Mosciski,tm4946@nittany.edu,22,30473,F,7i18zf4n,9408 Anderson Court ,CMPSC
+Jailyn Green,jg1721@nittany.edu,22,30410,M,xms08kb4,7195 North Canterbury Circle ,CHEM
+Yessenia Crona,yc2897@nittany.edu,21,52737,M,wagux3h8,120 Heritage Lane ,CMPSC
+Serena Stiedemann,ss9714@nittany.edu,22,52555,F,8z5pnlui,8378 West Pulaski Ave. ,EE
+Ressie Boyer,rb9779@nittany.edu,21,31701,M,2xpz77r8,9659 Rosewood Drive ,CMPEN
+Zackery Reynolds,zr6768@nittany.edu,20,51005,F,cqu4oqqk,185 E. Trenton Street ,CHEM
+Robb Christiansen,rc6428@nittany.edu,22,60551,M,tqdgdwnl,798 North Euclid Drive ,EE
+Joaquin Turner,jt5287@nittany.edu,21,95388,M,pjjaks2g,7313 Stillwater Lane ,DS
+Lucy Oberbrunner,lo7605@nittany.edu,21,80229,M,bn47qlis,4 Old Academy Drive ,CHEM
+Trudie Runte,tr4637@nittany.edu,18,61570,F,h6czyxwt,361 E. Sierra Street ,EE
+Lambert Russel,lr3728@nittany.edu,22,80433,F,a62i6pl3,453 North Elm Dr. ,MATH
+Xavier Greenfelder V,xg4863@nittany.edu,20,90240,M,sxbpeq1n,6 Andover Dr. ,CHEM
+Mr. Elta Hammes,me5010@nittany.edu,18,62571,F,lscmydj9,9498 Newport Ave. ,IST
+Lucas Reinger,lr5472@nittany.edu,19,30728,F,9itfmlss,251 West Sheffield Drive ,PHYS
+Shyanne Heller,sh4974@nittany.edu,22,50864,F,468vx2eo,91 S. Gartner Street ,CMPSC
+Lorena Anderson,la9924@nittany.edu,21,60423,M,pyu1l9vk,3 North Linden Ave. ,PHYS
+Marlene Schulist,ms2737@nittany.edu,22,46590,F,pw8rw005,4 Old Academy Drive ,ECON
+Tobin Balistreri,tb8127@nittany.edu,22,33169,F,hluyeul5,3 North Linden Ave. ,STAT
+Maudie Murphy,mm2976@nittany.edu,18,62049,F,6be7cy6j,7130 Longfellow Dr. ,ECON
+Toy Hayes,th3170@nittany.edu,18,46310,M,vcqhvrf4,9498 Newport Ave. ,DS
+Khalil Kovacek,kk3742@nittany.edu,18,52208,F,pzivzcis,7529 Old Sunset Road ,CHEM
+Noble Dooley,nd2615@nittany.edu,19,94957,M,x66pet3n,9659 Rosewood Drive ,CSE
+Sammy Braun,sb6428@nittany.edu,21,33136,M,21appxs5,91 S. Gartner Street ,STAT
+Rubie Runolfsson,rr9237@nittany.edu,20,30545,M,pg6loq0c,8687 N. Sleepy Hollow Court ,MATH
+Mr. Mable Prosacco,mm1660@nittany.edu,18,61242,M,ho1589h3,63 Lake Forest Road ,DS
+Mrs. Reba Heller,mr1462@nittany.edu,18,81242,F,7wkpb4f4,18 Lakeview Street ,PHYS
+Louisa Gislason,lg1828@nittany.edu,19,96761,M,bnq1qmcv,7764 Union Avenue ,CHEM
+Jalen Orn,jo7172@nittany.edu,19,95547,M,1ycbd4va,7313 Stillwater Lane ,CSE
+Miss Ardith Jerde,ma5045@nittany.edu,19,91343,F,fba3ls3l,708 York Dr. ,CMPSC
+Marianna Cummings,mc4696@nittany.edu,21,47983,M,65t6knui,120 Heritage Lane ,PHYS
+Ryan Schuster,rs3973@nittany.edu,18,32024,M,fcksdooc,8131 Elizabeth Ave. ,CSE
+Mr. Yvette Gislason,my7428@nittany.edu,22,72432,M,p5xjrgpy,8687 N. Sleepy Hollow Court ,IST
+Mohammed Von,mv4275@nittany.edu,22,30467,F,hxmroy2c,3 North Linden Ave. ,DS
+Vivien Will,vw5806@nittany.edu,21,62087,F,wi14inop,780 East Redwood Drive ,CMPEN
+Nadia Renner,nr4230@nittany.edu,19,94512,F,o0u7wza2,6 Andover Dr. ,ECON
+Mrs. Albertha Kautzer,ma3543@nittany.edu,21,81410,F,0we09v6f,780 East Redwood Drive ,PHYS
+Mossie Considine,mc9149@nittany.edu,20,50238,F,1kwxyx73,8985 Cambridge Ave. ,IST
+Lavina Goodwin,lg2530@nittany.edu,20,33062,F,28g2dueo,232 W. Homewood Ave. ,EE
+Stefanie Haley,sh4671@nittany.edu,19,91915,F,5qe7bghc,120 Heritage Lane ,DS
+Markus Turcotte DDS,mt7030@nittany.edu,18,31771,M,s0t63ppx,798 North Euclid Drive ,CHEM
+Loyce Torphy,lt3713@nittany.edu,21,93449,M,jajxpr7a,336 Myrtle Street ,IST
+Jeremie Watsica,jw3861@nittany.edu,22,93240,M,5x3nzy2o,63 Lake Forest Road ,IST
+Kenyon Rohan,kr4923@nittany.edu,19,30557,M,w8igr7b2,863 Stillwater Road ,STAT
+Napoleon Fay,nf6339@nittany.edu,18,62666,F,kh25zijo,453 North Elm Dr. ,CSE
+Melvin D'Amore,md6319@nittany.edu,22,94070,M,ryu3o2mq,7195 North Canterbury Circle ,DS
+Miss Brain Altenwerth,mb1688@nittany.edu,22,47340,M,n2dfub1z,3 North Linden Ave. ,CSE
+Marcel Kihn,mk5190@nittany.edu,18,6262,F,vdpmots3,78 South Brewery Ave. ,STAT
+Ms. Katlynn Mills,mk3204@nittany.edu,22,92887,M,fxkpjvr8,259 Cleveland Road ,CSE
+Olin Connelly,oc3904@nittany.edu,20,93631,F,x4wzwl35,863 Stillwater Road ,DS
+Kevin Mante,km6627@nittany.edu,20,86433,M,brhbtpp6,336 Myrtle Street ,PHYS
+Jerrold Schiller,js6308@nittany.edu,18,93930,M,c3ixaudm,8378 West Pulaski Ave. ,IST
+Juanita Wilderman,jw4897@nittany.edu,20,50208,F,95kymlws,9236 El Dorado St. ,CHEM
+Vernice Langworth,vl7715@nittany.edu,18,47584,F,jxdqxajo,9659 Rosewood Drive ,CSE
+Pink Haag,ph3861@nittany.edu,19,81615,M,704ilqhr,358 Marvon Ave. ,STAT
+Miss Daren Kessler,md2194@nittany.edu,19,61740,M,mij0lo81,8131 Elizabeth Ave. ,CSE
+Junior Heathcote,jh3919@nittany.edu,19,72118,M,2fi47lk3,285 Dogwood Drive ,EE
+Mohammed White,mw5114@nittany.edu,19,72520,F,ylozvj4o,182 Spring Street ,EE
+Lionel Daniel,ld6778@nittany.edu,20,81623,F,fpqano7u,141 Gulf Rd. ,DS
+Mr. Catharine Johns,mc1411@nittany.edu,20,96113,F,vvni2kh3,18 Lakeview Street ,CMPEN
+Lucile Gislason,lg7099@nittany.edu,20,85085,M,bc4le940,182 Spring Street ,STAT
+Ms. Malinda Greenfelder,mm9659@nittany.edu,19,6384,F,13kvwsjo,232 W. Homewood Ave. ,ECON
+Reyes Cormier,rc5324@nittany.edu,21,50153,M,gbqtku3c,7 Arch Court ,IST
+Miss Zechariah Kulas,mz7312@nittany.edu,20,32925,F,ro0wghzu,6 Andover Dr. ,PHYS
+Mrs. Leonard Bosco,ml5786@nittany.edu,22,6370,F,c03gkbjx,55 Hall St. ,EE
+Nina Hilll,nh2508@nittany.edu,21,92624,M,lo21i5t7,8687 N. Sleepy Hollow Court ,CHEM
+Maritza Schaefer,ms2255@nittany.edu,21,92024,M,fjh8si60,119 Harvey Street ,ECON
+Marlin Pfannerstill,mp4954@nittany.edu,19,31007,M,93lugexr,78 South Brewery Ave. ,EE
+Lulu Jakubowski,lj7790@nittany.edu,19,94965,M,f0kf14lp,9498 Newport Ave. ,CMPSC
+Skye Robel Jr.,sr7729@nittany.edu,20,80005,F,kb3tlio2,18 Lakeview Street ,CHEM
+Mr. Tiana Glover,mt8800@nittany.edu,19,34470,M,pqq8z7sr,88 Harrison Street ,CSE
+Leonor Davis,ld6540@nittany.edu,21,62610,F,n7qps904,639 Princeton Rd. ,EE
+Sterling Volkman Sr.,sv5358@nittany.edu,20,50420,F,72khyt24,655 East Branch Dr. ,PHYS
+Kylie Fay,kf8921@nittany.edu,19,94547,M,5wy4bon0,285 Dogwood Drive ,CMPSC
+Robb Hegmann,rh4718@nittany.edu,18,46181,F,meon7rzi,608 North Addison St. ,PHYS
+Victoria Toy II,vt8578@nittany.edu,18,6026,M,sls2audw,860 Wakehurst Dr. ,STAT
+Lysanne Ullrich,lu6872@nittany.edu,19,90017,M,ptc0b1y3,358 Marvon Ave. ,EE
+Loma Becker PhD,lb6520@nittany.edu,22,62530,M,95zc0rwz,285 Dogwood Drive ,STAT
+Karson Bashirian MD,kb6941@nittany.edu,22,60043,M,zuqm5kpu,7529 Old Sunset Road ,CSE
+Rose Veum,rv5469@nittany.edu,19,30215,M,xwdu18y9,308 Mammoth Dr. ,CSE
+Miss Lora Will,ml7975@nittany.edu,22,33936,F,oamszhnw,185 E. Trenton Street ,CMPSC
+Mrs. Joanny Legros,mj4880@nittany.edu,22,52216,M,5ocovp3j,26 Johnson St. ,CMPSC
+Josefina Frami,jf9661@nittany.edu,19,72176,F,f9se8wwm,8985 Cambridge Ave. ,EE
+Luisa Turcotte,lt8366@nittany.edu,19,83815,F,fws0qxaz,7450 West Manchester Street ,STAT
+Jace Swift,js7099@nittany.edu,19,47959,M,kyknbv85,285 Dogwood Drive ,MATH
+Rae Feil,rf2661@nittany.edu,22,60474,M,1dig79sf,285 Dogwood Drive ,IST
+Joanny Stracke,js8165@nittany.edu,20,30701,F,nq4112q9,608 North Addison St. ,EE
+Kailyn Kassulke V,kk3115@nittany.edu,20,50634,M,sgdlqet1,9498 Newport Ave. ,CMPSC
+Ms. Raoul Lang,mr4635@nittany.edu,22,80631,F,k6uyidbm,88 Harrison Street ,CMPSC
+Vella Ernser,ve8889@nittany.edu,19,6785,F,mk737jwg,798 North Euclid Drive ,CMPEN
+Ms. Lori Luettgen,ml3983@nittany.edu,22,47940,F,u9x7dz70,91 S. Gartner Street ,CMPEN
+Lucienne Dicki MD,ld8065@nittany.edu,21,72513,F,609akvrd,963 Court Road ,ECON
+Jared Kunde,jk4403@nittany.edu,18,46760,M,94qak42y,88 Harrison Street ,STAT
+Isabel Nader,in2805@nittany.edu,21,52341,M,41gfy1ej,6 Andover Dr. ,IST
+Patsy Beer,pb8346@nittany.edu,20,31623,M,skf5ui3q,266 Second Street ,PHYS
+Rosendo Friesen,rf1782@nittany.edu,20,32024,F,dok8nl9x,9236 El Dorado St. ,CSE
+Miss Nikki Kassulke,mn6721@nittany.edu,22,30275,M,1vfo45w7,8131 Elizabeth Ave. ,PHYS
+Savannah Maggio,sm6043@nittany.edu,20,34491,M,49xkwq6n,120 Heritage Lane ,CMPEN
+Lucinda Jakubowski,lj2224@nittany.edu,21,33763,M,f2hkrocp,185 E. Trenton Street ,EE
+Wilfred Runolfsson,wr3515@nittany.edu,20,60653,F,f2ey91az,639 Princeton Rd. ,EE
+Wilma Legros,wl5243@nittany.edu,20,61377,F,ij8sdkw9,63 Lake Forest Road ,CSE
+Julie Rice,jr8665@nittany.edu,19,94041,M,xmiiavzz,336 Myrtle Street ,CMPEN
+Nettie Schowalter,ns1210@nittany.edu,21,30034,M,4wks1yn1,182 Spring Street ,ECON
+Mr. Shanny Haag,ms6173@nittany.edu,18,31630,M,66krk2ow,9420 Tallwood Street ,ECON
+Newton Ankunding,na8379@nittany.edu,18,72126,F,8tayuxnr,495 Jockey Hollow Ave. ,DS
+Loyal Schamberger,ls6337@nittany.edu,21,46148,F,hrj3gm5t,63 Lake Forest Road ,EE
+Simone Mayert,sm9645@nittany.edu,18,95709,M,06f3jir4,8687 N. Sleepy Hollow Court ,STAT
+Roger Roob,rr8243@nittany.edu,18,19936,F,euho4xy8,798 North Euclid Drive ,PHYS
+Logan Wolf,lw4369@nittany.edu,20,81024,M,l2c6cn16,798 North Euclid Drive ,IST
+Isaiah Lakin,il3541@nittany.edu,19,52254,F,01idi3cu,120 Heritage Lane ,EE
+Miss Giovani Fisher,mg8505@nittany.edu,21,66058,M,kz3zir6z,259 Cleveland Road ,CMPSC
+Muriel Orn Jr.,mo1186@nittany.edu,19,33001,F,ginqor0y,91 S. Gartner Street ,MATH
+Pinkie Wilkinson,pw1726@nittany.edu,21,32708,F,to134xcj,119 Harvey Street ,STAT
+Lenny Mante,lm6031@nittany.edu,22,6883,F,lmddz47s,7 Arch Court ,ECON
+Mr. Jaylin Kautzer,mj6359@nittany.edu,21,30104,M,zlergoka,91 S. Gartner Street ,IST
+Pearlie Connelly,pc8832@nittany.edu,22,61919,M,g6gquwns,358 Marvon Ave. ,PHYS
+Michaela Frami,mf8214@nittany.edu,18,83283,F,byrmhkrc,8687 N. Sleepy Hollow Court ,IST
+Johnny Breitenberg I,jb5052@nittany.edu,18,47841,F,79r2lk38,88 Harrison Street ,CMPSC
+Ms. Adah Bode,ma8938@nittany.edu,18,83622,M,v8a0upa6,7313 Stillwater Lane ,CSE
+Lysanne Frami,lf4727@nittany.edu,19,31567,M,r5ewbudh,798 North Euclid Drive ,PHYS
+Jonathon Huel,jh1874@nittany.edu,22,30720,M,8d3tdd6n,9659 Rosewood Drive ,EE
+Reva Bayer,rb6281@nittany.edu,18,80453,F,6j8qtf9g,655 East Branch Dr. ,CSE
+Ms. Raina Schmidt,mr5864@nittany.edu,22,93455,F,9tc1sf4b,655 East Branch Dr. ,CSE
+Marco Larson,ml6213@nittany.edu,20,93207,M,kv6p91kt,608 North Addison St. ,PHYS
+Mr. Kelton Kertzmann,mk7773@nittany.edu,21,62035,F,bisj7cvm,9659 Rosewood Drive ,PHYS
+Nicolas Cummerata,nc8172@nittany.edu,19,80457,F,b09izvbz,6 Andover Dr. ,STAT
+Mrs. Joannie Dibbert,mj5914@nittany.edu,21,60503,F,n4v8hqyq,7450 West Manchester Street ,IST
+Mallie Eichmann,me2148@nittany.edu,20,81248,M,qmpyhkgz,4 Old Academy Drive ,STAT
+Mr. Keyshawn Cassin,mk8847@nittany.edu,18,80720,M,4zfuvuep,141 Gulf Rd. ,PHYS
+Miss Yolanda Pfannerstill,my3786@nittany.edu,22,52588,M,ixfwzeh2,182 Spring Street ,CMPEN
+Jensen McDermott,jm3669@nittany.edu,18,61323,M,fhsc0rqw,7195 North Canterbury Circle ,EE
+Ursula Fadel,uf7067@nittany.edu,22,83316,F,yohr8drf,185 E. Trenton Street ,MATH
+Madeline Renner,mr2575@nittany.edu,20,62065,M,dud61mbj,860 Wakehurst Dr. ,DS
+Mac Bailey,mb3709@nittany.edu,18,80721,F,yqz5bgrm,232 W. Homewood Ave. ,CHEM
+Jakob Kuvalis,jk4409@nittany.edu,18,62053,F,dngxq5hi,266 Second Street ,IST
+Yadira Schinner,ys9174@nittany.edu,18,52052,M,n5bplqw8,88 Harrison Street ,CSE
+Roxanne Fritsch,rf1538@nittany.edu,22,95699,M,3phvh9ch,18 Lakeview Street ,CMPSC
+Nicolas O'Reilly,no6118@nittany.edu,19,95682,M,yko7qfpk,7529 Old Sunset Road ,CSE
+Lisette Connelly,lc4994@nittany.edu,19,80836,F,zl5y07yb,63 Lake Forest Road ,IST
+Orrin Herman IV,oh8195@nittany.edu,22,32509,M,xa4qupgs,9420 Tallwood Street ,ECON
+Jewel Cole,jc2471@nittany.edu,22,50857,F,smelkveu,7195 North Canterbury Circle ,IST
+Mariam Mills,mm3162@nittany.edu,19,81067,F,qfnrr7q6,461 Heather Street ,CMPEN
+Jasen Hand,jh7997@nittany.edu,19,96818,M,e44gixtz,963 Court Road ,DS
+Irwin Kreiger,ik6824@nittany.edu,20,91950,M,wd6c5b8t,7297 Applegate St. ,DS
+Thurman Kessler,tk5748@nittany.edu,21,60515,F,lcxh50pn,963 Court Road ,DS
+Tobin Schinner PhD,ts1830@nittany.edu,21,94305,M,ilnv4fc7,7764 Union Avenue ,EE
+Karen Ritchie,kr6619@nittany.edu,20,85615,M,nejwj0g9,78 South Brewery Ave. ,DS
+Robert Krajcik,rk2653@nittany.edu,19,47558,F,fbcoyeuk,708 York Dr. ,PHYS
+Sophia Graham,sg4622@nittany.edu,21,62841,M,jau0vvp1,232 W. Homewood Ave. ,CMPEN
+Judson Lubowitz,jl3236@nittany.edu,21,6762,F,ekgc03iz,461 Heather Street ,DS
+Kelly Harber,kh1826@nittany.edu,19,50560,F,r6lql7ka,78 South Brewery Ave. ,IST
+Mr. Elliott Gibson,me2596@nittany.edu,18,94933,F,du07mr15,8687 N. Sleepy Hollow Court ,DS
+Johnnie Little,jl9851@nittany.edu,19,47385,M,avrak6tf,358 Marvon Ave. ,IST
+Stephany Weissnat,sw7724@nittany.edu,18,51007,F,genhnfwu,7130 Longfellow Dr. ,PHYS
+Kiley Howe,kh5883@nittany.edu,20,50120,M,297q8crc,963 Court Road ,CMPSC
+Mariana Nicolas Jr.,mn2842@nittany.edu,19,32951,F,mvoktbee,78 South Brewery Ave. ,CHEM
+Mr. Therese Sauer,mt7911@nittany.edu,18,30206,M,u61545ij,780 East Redwood Drive ,STAT
+Pedro Fadel,pf6936@nittany.edu,20,93925,F,voqefyok,8687 N. Sleepy Hollow Court ,CMPEN
+Mafalda Cremin,mc8336@nittany.edu,19,83627,M,e59cih6r,639 Princeton Rd. ,EE
+Mrs. Vesta Aufderhar,mv1311@nittany.edu,21,50027,F,fw1vmu6d,8401 Green Rd. ,CHEM
+Kari Kunze,kk2666@nittany.edu,22,52550,M,59hg8iiw,63 Lake Forest Road ,CMPSC
+Otis Kirlin,ok7520@nittany.edu,20,86545,M,sv6m90rj,608 North Addison St. ,ECON
+Miss Tianna Beatty,mt3151@nittany.edu,21,52751,F,nruazyy2,285 Dogwood Drive ,DS
+Laurel Bogan,lb8326@nittany.edu,21,94938,F,0384qogi,9408 Anderson Court ,CHEM
+Lane Hilpert,lh1031@nittany.edu,20,93553,M,9wsxm9n2,6 Andover Dr. ,STAT
+Mertie Nicolas,mn1239@nittany.edu,22,32656,F,2s38fy1y,655 East Branch Dr. ,CHEM
+Karley Abbott Sr.,ka1472@nittany.edu,20,31016,F,2vicyb49,232 W. Homewood Ave. ,ECON
+Tremaine Turcotte III,tt1799@nittany.edu,21,72103,M,v08qy7ak,7450 West Manchester Street ,CMPSC
+Maci Runolfsson,mr5565@nittany.edu,21,81501,F,atpig6cx,461 Heather Street ,IST
+Miss Aurore Jacobi,ma6036@nittany.edu,18,93242,M,ohnzfbua,461 Heather Street ,IST
+Ms. Reuben Donnelly,mr9406@nittany.edu,19,46118,M,0ofwccee,361 E. Sierra Street ,CHEM
+Oren Simonis MD,os4077@nittany.edu,19,80924,F,rbm7nj0l,18 Lakeview Street ,CSE
+Miss Isabell Corwin,mi6642@nittany.edu,18,32204,F,l6qnsfh8,780 East Redwood Drive ,MATH
+Misty Jenkins,mj1523@nittany.edu,22,85201,F,kl1qwhlb,185 E. Trenton Street ,CMPEN
+Priscilla White,pw7815@nittany.edu,20,52747,M,yxkcwdgq,18 Lakeview Street ,CSE
+Jules Oberbrunner,jo5683@nittany.edu,21,52728,F,e83hpu1t,708 York Dr. ,IST
+King Lebsack,kl1348@nittany.edu,18,31906,F,8wb1rxkk,251 West Sheffield Drive ,STAT
+Naomie Sporer,ns2358@nittany.edu,21,50116,F,vhqlpsxm,461 Heather Street ,EE
+Vladimir Reichert,vr4622@nittany.edu,19,32359,M,x1pcj1lj,7529 Old Sunset Road ,MATH
+Milford Koepp,mk1572@nittany.edu,20,93260,M,0mw55wlu,9659 Rosewood Drive ,STAT
+Trent Schamberger,ts5040@nittany.edu,22,96038,M,nu5j89vv,8687 N. Sleepy Hollow Court ,IST
+Meredith Jenkins,mj1117@nittany.edu,20,51555,F,b7vlqf67,119 Harvey Street ,MATH
+Kaci Parker,kp5214@nittany.edu,20,85706,F,7ju36d6x,608 North Addison St. ,MATH
+Macey Emmerich,me4221@nittany.edu,20,32626,F,3bo30fmd,9408 Anderson Court ,PHYS
+Lambert Hermiston,lh8743@nittany.edu,20,52335,F,7w0nvvdk,63 Lake Forest Road ,DS
+Kale Ankunding,ka6770@nittany.edu,19,50254,M,zueofsd7,963 Court Road ,CMPEN
+Wiley Anderson,wa5135@nittany.edu,18,33924,F,w243ok57,9236 El Dorado St. ,DS
+Liam Adams,la7071@nittany.edu,20,32968,M,vbh4oyvh,185 E. Trenton Street ,CHEM
+Kaci Lynch,kl9753@nittany.edu,19,32607,F,cv1y6th1,141 Gulf Rd. ,IST
+Jett Hamill,jh3336@nittany.edu,21,31823,F,s3hc5no3,8378 West Pulaski Ave. ,CHEM
+Simone Brekke,sb1972@nittany.edu,19,39845,M,j7r0a57m,308 Mammoth Dr. ,CHEM
+Keshaun Bailey DDS,kb3574@nittany.edu,18,85381,F,rra42qn8,608 North Addison St. ,DS
+Lavon VonRueden,lv3076@nittany.edu,22,81023,F,v7zygrtm,8378 West Pulaski Ave. ,CHEM
+Max Trantow,mt4811@nittany.edu,21,83254,M,wsm19ofu,7764 Union Avenue ,CMPEN
+Zetta Predovic,zp7831@nittany.edu,20,67801,F,d3dgrdyb,8401 Green Rd. ,CSE
+Meredith Runolfsdottir,mr1020@nittany.edu,21,91763,F,7parpwv4,119 Harvey Street ,IST
+Westley Smith,ws6593@nittany.edu,21,32162,F,teicrr0i,120 Heritage Lane ,ECON
+Laura Windler,lw8769@nittany.edu,22,47868,F,4zg52bmc,7450 West Manchester Street ,DS
+Mrs. Shaylee Grady,ms6765@nittany.edu,22,51026,F,r5rdlt3p,232 W. Homewood Ave. ,MATH
+Modesto Jast,mj9606@nittany.edu,22,80442,M,hqz70t65,232 W. Homewood Ave. ,CMPSC
+Jayson Conroy,jc4011@nittany.edu,20,93722,M,eo12cwf1,91 S. Gartner Street ,CHEM
+Maia Jaskolski,mj5224@nittany.edu,20,52228,F,1ugb9cmy,63 Lake Forest Road ,CMPSC
+Jeramie Zieme,jz6925@nittany.edu,18,33521,F,k5yvaa0l,182 Spring Street ,PHYS
+Vergie Olson I,vo6259@nittany.edu,19,66748,F,2bydpo29,655 East Branch Dr. ,CMPEN
+Katarina Stroman,ks3998@nittany.edu,20,50167,F,rhxt4g5n,8401 Green Rd. ,STAT
+Mr. Tyra Kertzmann,mt3231@nittany.edu,18,46704,F,exvtqnja,8378 West Pulaski Ave. ,CSE
+Wilhelm Schroeder,ws8716@nittany.edu,20,62907,M,zypbenkp,141 Gulf Rd. ,CMPSC
+Mrs. Darren Stokes,md7627@nittany.edu,20,72828,F,uv6lyhx1,141 Gulf Rd. ,CMPEN
+Tiffany Hintz,th2610@nittany.edu,18,30004,M,h9on7qnt,798 North Euclid Drive ,ECON
+Meggie Heaney,mh8661@nittany.edu,18,33744,M,62pu6wfu,6 Andover Dr. ,STAT
+Valentin Koch,vk8864@nittany.edu,21,71865,M,651y3i92,6 Andover Dr. ,ECON
+Magnolia Hauck,mh3437@nittany.edu,21,20037,M,un370oka,251 West Sheffield Drive ,ECON
+Willy Witting,ww9231@nittany.edu,21,67625,F,kj60tdn2,453 North Elm Dr. ,MATH
+Mertie Kessler,mk1676@nittany.edu,18,85029,M,85455s3q,7529 Old Sunset Road ,MATH
+Ubaldo Brakus,ub9586@nittany.edu,19,80914,F,x506uggh,26 Johnson St. ,IST
+Lorenza Herzog,lh6961@nittany.edu,19,61320,M,v3gdwdc5,4 Old Academy Drive ,CSE
+Kassandra Feeney,kf5693@nittany.edu,18,52041,M,kugxq36s,639 Princeton Rd. ,IST
+Sarina Brakus,sb2082@nittany.edu,21,95350,M,wxsmyx7m,358 Marvon Ave. ,IST
+Ms. Novella Leannon,mn2870@nittany.edu,19,85924,M,jp6g9t7o,26 Johnson St. ,MATH
+Ulices Greenholt,ug5112@nittany.edu,22,93226,F,dxkepcty,863 Stillwater Road ,CMPSC
+Trisha Kutch,tk1529@nittany.edu,20,62294,M,qecf5aq9,708 York Dr. ,IST
+Isadore Bednar,ib2806@nittany.edu,19,6114,M,uua3sa2w,9408 Anderson Court ,CMPEN
+Oda Satterfield III,os7226@nittany.edu,18,32065,M,mjn5h1ar,55 Hall St. ,CMPSC
+Niko Effertz,ne9599@nittany.edu,19,61605,M,zyidgkic,26 Johnson St. ,IST
+Vivian Grady,vg5084@nittany.edu,20,52336,M,mngwzy70,608 North Addison St. ,ECON
+Mr. Rashad Haley,mr5670@nittany.edu,18,95841,M,64l3koc2,63 Lake Forest Road ,CMPEN
+Kyler Marvin,km6416@nittany.edu,22,30734,F,ogioyglf,336 Myrtle Street ,EE
+Sarai Jakubowski,sj7472@nittany.edu,22,52202,M,s90gbel7,9420 Tallwood Street ,PHYS
+Wilfrid Rath,wr1679@nittany.edu,21,83354,M,aqiwjran,9420 Tallwood Street ,CMPSC
+Mr. Rosario Breitenberg,mr8602@nittany.edu,21,67144,F,wdej56s0,7 Arch Court ,CHEM
+Miss Alayna Simonis,ma8046@nittany.edu,18,51631,M,a771edmk,7764 Union Avenue ,ECON
+Melissa Green,mg1007@nittany.edu,22,72959,F,0chfsvgv,9236 El Dorado St. ,CHEM
+Lauryn Hayes,lh3004@nittany.edu,19,92595,F,yc5lx7ko,78 South Brewery Ave. ,PHYS
+Zachariah Ritchie,zr6066@nittany.edu,19,32835,M,ox4oj6bk,7764 Union Avenue ,PHYS
+Jayde Gutkowski,jg5906@nittany.edu,21,33165,F,ur67r649,863 Stillwater Road ,PHYS
+Oral Kozey,ok5696@nittany.edu,21,93013,M,w4lw74bb,78 South Brewery Ave. ,PHYS
+Michael Weber,mw5391@nittany.edu,20,95606,F,gw0fvr67,285 Dogwood Drive ,CHEM
+Skyla Maggio,sm5970@nittany.edu,22,62049,M,vxoiplyk,780 East Redwood Drive ,CSE
+Ms. Nickolas Stoltenberg,mn6897@nittany.edu,22,60410,M,v0ao01h6,8401 Green Rd. ,CMPSC
+Rosanna Mayer,rm8553@nittany.edu,19,6070,F,hvp8c1pa,8131 Elizabeth Ave. ,ECON
+Jaiden Little,jl5459@nittany.edu,19,72856,M,0plitcjo,185 E. Trenton Street ,CSE
+Ms. Lindsay Trantow,ml1743@nittany.edu,18,80612,F,y5vg4l0f,9659 Rosewood Drive ,DS
+Pierce Hettinger,ph1773@nittany.edu,21,72434,F,ri2ema2v,798 North Euclid Drive ,CSE
+Mr. Alexandria Graham,ma8953@nittany.edu,18,46771,M,c4mxuuqi,55 Hall St. ,CHEM
+Pearlie Purdy,pp2997@nittany.edu,19,96120,F,o1fefu43,639 Princeton Rd. ,ECON
+Vada Kerluke,vk7408@nittany.edu,20,51572,M,ids1tqkg,780 East Redwood Drive ,STAT
+Raymond Oberbrunner Sr.,ro9937@nittany.edu,20,80477,M,ekfvrwnv,308 Mammoth Dr. ,EE
+Tess Farrell,tf2405@nittany.edu,18,6078,M,bbub3bn6,495 Jockey Hollow Ave. ,STAT
+Providenci Mitchell,pm3642@nittany.edu,21,72206,M,5jaf22em,9236 El Dorado St. ,PHYS
+Kaci Runolfsdottir,kr9949@nittany.edu,21,86033,F,4l677h7b,7 Arch Court ,STAT
+Mr. Tyshawn Rice,mt2086@nittany.edu,18,94102,F,lugv35xs,63 Lake Forest Road ,CHEM
+Tremaine Williamson DDS,tw6502@nittany.edu,20,72553,F,v8vwyn9u,259 Cleveland Road ,ECON
+Ova Legros,ol7450@nittany.edu,19,50430,F,sjh2j7al,120 Heritage Lane ,ECON
+Jasen Walker IV,jw6319@nittany.edu,22,72553,F,7b5mmk0k,87 Vermont St. ,CMPSC
+Orie Kunde,ok8829@nittany.edu,21,81650,F,0mtlfueb,88 Harrison Street ,EE
+Pablo Shields,ps1087@nittany.edu,18,33455,M,0btsy90l,251 West Sheffield Drive ,MATH
+Mrs. Paolo Runolfsdottir,mp7952@nittany.edu,20,81624,F,yvw13vva,259 Cleveland Road ,MATH
+Stuart Murray,sm5549@nittany.edu,21,91948,M,4ubv2rui,7450 West Manchester Street ,IST
+Timothy Dibbert V,td2477@nittany.edu,20,80863,M,jqnrvtrh,7297 Applegate St. ,MATH
+Shania Mayer II,sm8842@nittany.edu,18,80498,M,evr5of46,8985 Cambridge Ave. ,PHYS
+Jolie Pagac,jp5962@nittany.edu,20,50212,M,glomie2r,461 Heather Street ,ECON
+Miss Garfield Considine,mg1791@nittany.edu,18,90210,M,97wpdce3,361 E. Sierra Street ,CMPSC
+Stephania Gusikowski,sg1979@nittany.edu,19,46048,M,l1gmkdot,358 Marvon Ave. ,PHYS
+Lauretta Ortiz,lo3428@nittany.edu,19,33158,M,2egyxxlf,780 East Redwood Drive ,PHYS
+Ms. Luisa Hackett,ml7753@nittany.edu,21,96863,F,njqkhbk1,182 Spring Street ,CMPEN
+Jarrett Strosin,js3927@nittany.edu,19,51006,M,9omxaej6,358 Marvon Ave. ,CMPSC
+Miss Erika Champlin,me9897@nittany.edu,21,46992,M,wlbwyq0u,55 Hall St. ,EE
+Ms. Broderick Rosenbaum,mb5390@nittany.edu,20,96073,F,x55rpyay,8687 N. Sleepy Hollow Court ,STAT
+Sage Gottlieb,sg4417@nittany.edu,22,46740,F,uspynxlx,91 S. Gartner Street ,STAT
+Laverne Toy,lt7103@nittany.edu,21,61333,M,du9dnihl,26 Johnson St. ,IST
+Piper Turner,pt3035@nittany.edu,18,6804,M,lygiglih,3 North Linden Ave. ,ECON
+Wilhelm Cremin DDS,wc1418@nittany.edu,19,83706,F,7pvgb1zz,963 Court Road ,CMPEN
+Miss Marcella Corkery,mm2047@nittany.edu,19,72908,M,v4zb3jgz,9599 La Sierra St. ,ECON
+Mr. Amely Brown,ma4242@nittany.edu,20,83839,M,jvu0nzlk,7764 Union Avenue ,PHYS
+Jensen Nitzsche,jn3590@nittany.edu,22,83254,F,qb44g4dk,266 Second Street ,ECON
+Miss Harmony Smitham,mh4972@nittany.edu,22,33157,F,2n5005op,285 Dogwood Drive ,CMPSC
+Jordan Hilpert,jh3004@nittany.edu,19,71933,M,t4lokykc,9599 La Sierra St. ,ECON
+Shea Pacocha,sp7638@nittany.edu,21,60619,M,fsrrus7y,9599 La Sierra St. ,EE
+Vivienne Nolan,vn4576@nittany.edu,18,93669,M,vv66g921,259 Cleveland Road ,ECON
+Mr. Jamie Rolfson,mj2446@nittany.edu,19,62671,M,ucjic0w9,308 Mammoth Dr. ,CMPEN
+Mollie Hegmann,mh9005@nittany.edu,20,30683,M,k6oyux03,3 North Linden Ave. ,CMPEN
+Mariano Price,mp5777@nittany.edu,19,61256,F,michr3i2,863 Stillwater Road ,DS
+Mrs. Jamarcus Hintz,mj1886@nittany.edu,22,34683,F,5n7v2kpx,78 South Brewery Ave. ,IST
+Mrs. Pedro Hyatt,mp5980@nittany.edu,18,95922,M,b0ik492k,87 Vermont St. ,CMPSC
+Mr. Rebeca Zieme,mr7087@nittany.edu,20,91361,F,k0nmx856,8687 N. Sleepy Hollow Court ,STAT
+Kamren Keebler,kk1267@nittany.edu,21,47863,M,erpw7yc1,863 Stillwater Road ,CMPEN
+Jaden Mayer,jm7206@nittany.edu,22,72082,F,t3cc9z99,185 E. Trenton Street ,DS
+Mrs. Murphy Torp,mm8916@nittany.edu,18,61863,M,zhficzyu,141 Gulf Rd. ,CMPEN
+Jamie Reilly,jr1301@nittany.edu,20,72438,F,kbpsbr3f,7130 Longfellow Dr. ,EE
+Russell Quitzon,rq8420@nittany.edu,18,93452,M,18039p3n,963 Court Road ,MATH
+Tyrell Fay,tf8025@nittany.edu,21,33407,F,5pvjbo7e,285 Dogwood Drive ,EE
+Osvaldo Bogan,ob6043@nittany.edu,21,52305,M,ktfuzxp9,7130 Longfellow Dr. ,CMPEN
+Jerrold Dicki,jd3188@nittany.edu,20,61041,M,9q2thys7,83 Corona Street ,ECON
+Napoleon Boyer,nb5135@nittany.edu,21,62207,M,0nzzhtfv,7 Arch Court ,CMPSC
+Jolie Smitham,js4888@nittany.edu,22,34237,F,j3od3n4p,453 North Elm Dr. ,CMPEN
+Mrs. Trevor Brown,mt1283@nittany.edu,18,31058,M,hol7b2mw,7130 Longfellow Dr. ,PHYS
+Tara Berge IV,tb4699@nittany.edu,19,62526,M,f27vzunk,182 Spring Street ,CHEM
+Jaylen Feil,jf5072@nittany.edu,18,96109,F,s0ar4vzh,8401 Green Rd. ,PHYS
+Mrs. Jaleel Runolfsson,mj8109@nittany.edu,20,51346,F,xoiyx6kc,8131 Elizabeth Ave. ,DS
+Stefanie Legros,sl8096@nittany.edu,18,72522,F,yf61naw6,63 Lake Forest Road ,ECON
+Will Gusikowski,wg1476@nittany.edu,18,31314,F,wbaj93jd,860 Wakehurst Dr. ,CHEM
+Lauren Bahringer PhD,lb1184@nittany.edu,18,31560,F,dot0tf8n,78 South Brewery Ave. ,DS
+Kari Weber,kw1043@nittany.edu,21,47581,F,gyuo6s68,963 Court Road ,STAT
+Leola DuBuque Sr.,ld4137@nittany.edu,21,92883,F,fsj3c1kx,495 Jockey Hollow Ave. ,CMPEN
+Neva Berge,nb2686@nittany.edu,22,51571,M,t3tb56et,8131 Elizabeth Ave. ,MATH
+Rupert Kemmer,rk8121@nittany.edu,21,71859,M,nqr175z6,9408 Anderson Court ,CHEM
+Vicenta Prosacco,vp6083@nittany.edu,22,95527,F,1ud2uqwt,655 East Branch Dr. ,CMPEN
+Mr. Braulio Schultz,mb7672@nittany.edu,18,19941,F,vf1lz76e,63 Lake Forest Road ,MATH
+Rubie Harvey,rh9618@nittany.edu,19,61871,M,l4kd44ir,9236 El Dorado St. ,STAT
+Levi Willms,lw7685@nittany.edu,18,92321,M,7m8mr0xn,7764 Union Avenue ,MATH
+Mckayla Eichmann,me6698@nittany.edu,22,51350,F,ffb2ht7r,120 Heritage Lane ,MATH
+Marjory Pfeffer,mp7693@nittany.edu,20,52728,M,o3dr5v73,9236 El Dorado St. ,PHYS
+Una Stark PhD,us6442@nittany.edu,21,30082,M,l35tyonq,358 Marvon Ave. ,STAT
+Miss Adolfo Lesch,ma9983@nittany.edu,21,33442,F,yd06ojzw,358 Marvon Ave. ,CSE
+Marisol Konopelski,mk7105@nittany.edu,22,60408,M,324dzpe5,7529 Old Sunset Road ,MATH
+Ms. Adrianna Hahn,ma3822@nittany.edu,18,51010,M,puhwjytc,639 Princeton Rd. ,STAT
+Verner Yundt,vy1999@nittany.edu,22,60475,F,4dd4cw3t,141 Gulf Rd. ,EE
+Lionel West,lw8160@nittany.edu,19,93531,M,psuozril,26 Johnson St. ,IST
+Noah Moore,nm4783@nittany.edu,20,71730,F,iy1zte43,8985 Cambridge Ave. ,PHYS
+Nestor Baumbach PhD,nb4212@nittany.edu,22,60503,F,t317pzht,87 Vermont St. ,CHEM
+Marisa Schaden,ms9882@nittany.edu,19,47453,F,ap6zwdg6,7130 Longfellow Dr. ,PHYS
+Miracle Kerluke,mk2377@nittany.edu,18,62002,F,m7rl0est,7297 Applegate St. ,ECON
+Roxane Watsica,rw1366@nittany.edu,19,71913,M,wzrfyu4b,3 North Linden Ave. ,MATH
+Marianna Runolfsdottir,mr5319@nittany.edu,18,93950,F,boobfpsc,141 Gulf Rd. ,STAT
+Kaylah Zieme,kz9097@nittany.edu,20,6016,F,93fazlav,639 Princeton Rd. ,CMPEN
+Marques Langworth,ml7288@nittany.edu,21,95237,F,8u9m3vy0,120 Heritage Lane ,ECON
+Jayson Doyle,jd5932@nittany.edu,19,34442,F,hm6f5dki,655 East Branch Dr. ,CSE
+Lexie Kuphal,lk1182@nittany.edu,21,92672,M,i86a0wes,9236 El Dorado St. ,CMPEN
+Jedediah Koch,jk1331@nittany.edu,20,95492,M,9xsuk73g,7297 Applegate St. ,DS
+Josue Weber,jw9436@nittany.edu,20,72201,M,vzbjdv3k,4 Old Academy Drive ,MATH
+Zane Wunsch III,zw5425@nittany.edu,19,72031,F,azwrgwfc,8131 Elizabeth Ave. ,ECON
+Juana Kris MD,jk5021@nittany.edu,21,60448,M,mok0ne4f,18 Lakeview Street ,CMPEN
+Mr. Nicole Raynor,mn1003@nittany.edu,22,81430,F,9w0dzvox,3 North Linden Ave. ,PHYS
+Patience Hackett,ph8799@nittany.edu,22,95816,M,vi91ma60,9420 Tallwood Street ,IST
+Jessy Leannon,jl8774@nittany.edu,19,93664,F,cort4ur0,7 Arch Court ,PHYS
+Mattie Jerde,mj7408@nittany.edu,21,80122,F,n1dy26kb,7195 North Canterbury Circle ,PHYS
+Nils Simonis,ns6501@nittany.edu,19,90241,M,dolqvilg,8401 Green Rd. ,EE
+Lola Rau,lr5589@nittany.edu,19,96034,F,u6hzmqce,453 North Elm Dr. ,CHEM
+Miss Esperanza Macejkovic,me5409@nittany.edu,19,91702,M,h6596pmb,185 E. Trenton Street ,IST
+Mrs. Ciara Watsica,mc9096@nittany.edu,18,31789,F,9e902fh5,461 Heather Street ,DS
+Jeramy Kessler,jk4116@nittany.edu,19,50439,F,tc7wzen5,9498 Newport Ave. ,EE
+Kim Brown,kb9285@nittany.edu,22,93624,F,bb20e3eo,182 Spring Street ,MATH
+Kiley Quitzon,kq6968@nittany.edu,19,66418,M,ncauyhl8,860 Wakehurst Dr. ,MATH
+Miss Jaeden Wehner,mj6957@nittany.edu,18,30233,F,50ios7oc,6 Andover Dr. ,CHEM
+Trenton Price,tp4444@nittany.edu,22,80498,F,7xngmflx,185 E. Trenton Street ,CHEM
+Mrs. Elvie Langosh,me6706@nittany.edu,22,61091,M,koq3w7uq,91 S. Gartner Street ,MATH
+Kyler Becker,kb8171@nittany.edu,19,66732,F,qaim4nyr,9408 Anderson Court ,PHYS
+Selmer Romaguera V,sr6321@nittany.edu,18,61364,M,y8ctfvas,185 E. Trenton Street ,IST
+Jedediah Hahn,jh1737@nittany.edu,18,33068,M,r3fjawr3,7195 North Canterbury Circle ,DS
+Sedrick Prosacco,sp1616@nittany.edu,22,51652,M,ml2h208b,8985 Cambridge Ave. ,PHYS
+Phoebe Murazik I,pm4249@nittany.edu,19,62987,F,7lkh0drk,285 Dogwood Drive ,DS
+Turner Leffler,tl1139@nittany.edu,21,81001,F,aw578ax6,453 North Elm Dr. ,CSE
+Izabella Murphy,im1645@nittany.edu,21,60920,M,9fxd7jbx,7 Arch Court ,PHYS
+Spencer Doyle,sd6073@nittany.edu,18,31709,M,h4s07rdo,860 Wakehurst Dr. ,ECON
+Penelope Okuneva,po7371@nittany.edu,21,50633,M,ip7d5auz,55 Hall St. ,MATH
+Wilburn O'Reilly Jr.,wo4044@nittany.edu,20,62976,M,763l3i7c,91 S. Gartner Street ,DS
+Mr. Citlalli Kirlin,mc4662@nittany.edu,20,32117,M,29h5hyri,9408 Anderson Court ,CSE
+Mossie Marks,mm9624@nittany.edu,18,19707,M,qn3gf4jy,182 Spring Street ,IST
+Ned Bechtelar,nb6183@nittany.edu,22,51445,F,0st9amrk,232 W. Homewood Ave. ,STAT
+Miss Mireya Dach,mm4674@nittany.edu,21,93513,F,g7du1ojo,88 Harrison Street ,EE
+Virginia Hoppe,vh5298@nittany.edu,18,34450,M,xq61mjeu,336 Myrtle Street ,CMPEN
+Miss Idell McLaughlin,mi2648@nittany.edu,22,83285,M,m8xeqokb,7130 Longfellow Dr. ,STAT
+Janet Streich,js3229@nittany.edu,19,72567,F,e96c7keo,266 Second Street ,MATH
+Martina Trantow,mt2801@nittany.edu,20,30752,M,bo0jngmw,336 Myrtle Street ,MATH
+Octavia Hane,oh9599@nittany.edu,19,47847,F,f82kxu02,7764 Union Avenue ,DS
+Jeremy Boyer,jb9306@nittany.edu,20,33476,F,v9ssce9g,655 East Branch Dr. ,CMPEN
+Juana Cronin,jc1462@nittany.edu,21,47455,M,q9d9s6dq,7195 North Canterbury Circle ,DS
+Kane Satterfield,ks1926@nittany.edu,18,90001,F,sl8woypo,7529 Old Sunset Road ,CHEM
+Stephon Bernier,sb5646@nittany.edu,22,6469,M,2vzzya36,9599 La Sierra St. ,CSE
+Mr. Rudolph Littel,mr3116@nittany.edu,21,46301,F,l9hbj48g,9659 Rosewood Drive ,IST
+Sonya Nitzsche,sn9491@nittany.edu,20,61438,F,5yi7x0eo,78 South Brewery Ave. ,ECON
+Mr. Gudrun Dickinson,mg7684@nittany.edu,18,46011,F,rl2cp87v,8687 N. Sleepy Hollow Court ,CMPEN
+Orland Rau,or2228@nittany.edu,18,92337,M,kvn8iy42,9659 Rosewood Drive ,CMPEN
+Mrs. Deanna Wuckert,md6611@nittany.edu,20,92267,M,vtosgz5l,780 East Redwood Drive ,CHEM
+Jarred Kutch,jk4027@nittany.edu,18,81141,F,s5sdwxe9,3 North Linden Ave. ,CMPSC
+Karine Davis,kd4323@nittany.edu,22,90660,F,ky47f40i,708 York Dr. ,CSE
+Miss Ottilie Dooley,mo4621@nittany.edu,19,72821,M,yj2pbwup,285 Dogwood Drive ,CMPEN
+Miss Guy Nader,mg4093@nittany.edu,21,95463,F,2ah4ktzw,9236 El Dorado St. ,CSE
+Nikolas Moen,nm3617@nittany.edu,18,34232,F,vlzywpvf,9408 Anderson Court ,CSE
+Sydnie Reichert,sr9640@nittany.edu,19,62643,M,iplj2xy6,9498 Newport Ave. ,CSE
+Merlin Ward,mw6081@nittany.edu,20,66860,F,32646od4,798 North Euclid Drive ,PHYS
+Leatha Torp,lt8326@nittany.edu,18,33403,F,ey2211w5,8378 West Pulaski Ave. ,CMPSC
+Miss Bailee Bogan,mb8575@nittany.edu,19,83548,M,sh4xt2bg,119 Harvey Street ,CSE
+Stuart Cruickshank,sc6597@nittany.edu,20,83836,M,l1v69w0t,9599 La Sierra St. ,EE
+Ms. Alice Grady,ma8535@nittany.edu,21,94028,F,diy15lsc,7 Arch Court ,STAT
+Madison Beer,mb5410@nittany.edu,18,85551,F,lb72y2as,9236 El Dorado St. ,EE
+Tremayne Bode,tb1810@nittany.edu,18,51363,M,o7e5y5dx,120 Heritage Lane ,CMPEN
+Jocelyn Gibson,jg7835@nittany.edu,20,81133,F,maqpunnl,7450 West Manchester Street ,CMPEN
+Yesenia Cruickshank,yc8409@nittany.edu,18,6413,F,vq1nni34,9498 Newport Ave. ,ECON
+Nedra Langworth DDS,nl1189@nittany.edu,20,83336,F,5aoxsizv,63 Lake Forest Road ,CMPSC
+Miles Gottlieb,mg8396@nittany.edu,20,33618,M,nxo2mwgf,308 Mammoth Dr. ,ECON
+Tobin Armstrong,ta4214@nittany.edu,19,46792,M,mklvq7ae,78 South Brewery Ave. ,CHEM
+Jerome Carroll,jc9373@nittany.edu,22,61605,F,shhpv8p7,7 Arch Court ,CMPSC
+Miss Roger Hermann,mr3131@nittany.edu,21,51440,F,02urjsak,453 North Elm Dr. ,IST
+Mrs. Jarod Hauck,mj9296@nittany.edu,19,93551,F,kcu3vjig,83 Corona Street ,STAT
+Lupe McClure V,lm8503@nittany.edu,21,46115,F,j2sxy242,88 Harrison Street ,IST
+Ms. Tess Volkman,mt6337@nittany.edu,22,72542,M,pb0hfa5q,336 Myrtle Street ,ECON
+Marcelle Orn,mo2344@nittany.edu,18,34996,M,gx3wwjpy,87 Vermont St. ,PHYS
+Madeline Lowe,ml8317@nittany.edu,19,33635,F,ncjwln3k,259 Cleveland Road ,CSE
+Miss Grayson Pagac,mg7641@nittany.edu,18,33129,M,dougrd3c,9659 Rosewood Drive ,CMPEN
+Luisa Lynch II,ll6444@nittany.edu,20,72717,F,okou3evv,7195 North Canterbury Circle ,MATH
+Ms. Donavon Ferry,md1308@nittany.edu,19,19902,F,c1tkc0cu,83 Corona Street ,PHYS
+Jalen Dietrich DDS,jd5592@nittany.edu,21,52802,M,ctrbgry4,83 Corona Street ,PHYS
+Stella Kohler,sk9053@nittany.edu,18,46407,F,o1kwtc35,78 South Brewery Ave. ,DS
+Mrs. Trisha Flatley,mt1262@nittany.edu,20,92549,M,9pp8rq5t,308 Mammoth Dr. ,CMPEN
+Mireya McKenzie,mm6682@nittany.edu,20,50648,F,scejc8la,7130 Longfellow Dr. ,STAT
+Nestor Willms,nw3340@nittany.edu,18,95556,M,x6dvvxsz,7764 Union Avenue ,PHYS
+Trevor Douglas,td2308@nittany.edu,18,72950,F,7t094e9g,8401 Green Rd. ,CMPEN
+Jaydon Wolff III,jw3297@nittany.edu,18,92618,F,cn3jhka6,655 East Branch Dr. ,DS
+Stuart Paucek,sp1402@nittany.edu,18,72438,M,m5cocubj,26 Johnson St. ,PHYS
+Maeve Lindgren,ml5796@nittany.edu,21,62501,F,ui580f4n,63 Lake Forest Road ,CHEM
+Keshaun Cremin,kc1302@nittany.edu,22,96708,F,v0fgasd7,78 South Brewery Ave. ,PHYS
+Lorenz D'Amore,ld9084@nittany.edu,18,19733,M,ftqmprpx,361 E. Sierra Street ,CMPEN
+Ottis Carter,oc9232@nittany.edu,18,31316,M,xcjcr4fc,308 Mammoth Dr. ,CHEM
+Mr. Abdullah Nienow,ma9716@nittany.edu,22,86403,M,9850zhhi,26 Johnson St. ,CMPEN
+Joel Hessel,jh2181@nittany.edu,18,81504,F,p90ls52s,6 Andover Dr. ,ECON
+Mrs. Deangelo Larson,md7018@nittany.edu,18,6090,M,pczfi6i4,120 Heritage Lane ,MATH
+Rey Mayer,rm1496@nittany.edu,21,85003,M,rqgrpbb3,4 Old Academy Drive ,CMPSC
+Osvaldo Goldner,og7528@nittany.edu,21,80624,M,o3hihfsr,863 Stillwater Road ,CSE
+Miss Archibald Parisian,ma8013@nittany.edu,21,47948,F,jc1yhwrz,860 Wakehurst Dr. ,PHYS
+Kirk Kshlerin,kk5103@nittany.edu,22,52626,F,o27khz2d,780 East Redwood Drive ,CHEM
+Jude Jakubowski,jj6204@nittany.edu,19,46039,M,vaklayln,251 West Sheffield Drive ,IST
+Letitia Haley,lh7203@nittany.edu,19,6359,M,gtmrxd7b,453 North Elm Dr. ,CMPSC
+Lyla Rowe,lr4974@nittany.edu,18,31747,F,krunxnsj,3 North Linden Ave. ,PHYS
+Reba Rogahn Jr.,rr1861@nittany.edu,18,30168,F,fcsiw9vb,655 East Branch Dr. ,CMPEN
+Xzavier Bednar,xb9185@nittany.edu,18,91905,M,fwja346l,6 Andover Dr. ,CHEM
+Madalyn Beahan,mb2685@nittany.edu,22,61344,M,1alls4jn,308 Mammoth Dr. ,CMPSC
+Marquise Sporer,ms6799@nittany.edu,20,92056,M,eivrd0dg,9408 Anderson Court ,DS
+Lily Mayer,lm1111@nittany.edu,19,51046,M,4abor0p0,780 East Redwood Drive ,CSE
+Johnpaul Adams III,ja2479@nittany.edu,19,30054,M,i8c51ca7,8985 Cambridge Ave. ,STAT
+Zita Okuneva,zo2385@nittany.edu,21,62346,F,h2c0hmwx,708 York Dr. ,IST
+Leone Rath,lr8600@nittany.edu,20,32445,M,ky9az1o3,7450 West Manchester Street ,STAT
+Kenna Toy,kt2960@nittany.edu,22,61775,F,ciwfk9v0,55 Hall St. ,CHEM
+Lesly Hamill,lh7173@nittany.edu,20,80487,M,i41crgb3,798 North Euclid Drive ,PHYS
+Mona Jast,mj8696@nittany.edu,19,81321,F,bubzi73b,8401 Green Rd. ,ECON
+Malachi O'Kon Sr.,mo9119@nittany.edu,21,96734,M,dg88ili6,266 Second Street ,CMPSC
+Maryjane Ratke DVM,mr4981@nittany.edu,18,30218,M,4y9tpklm,6 Andover Dr. ,MATH
+Rosanna Raynor II,rr3451@nittany.edu,22,32079,F,mfh91bnj,655 East Branch Dr. ,EE
+Sydnie Eichmann,se2637@nittany.edu,18,52323,F,66hclke8,78 South Brewery Ave. ,CHEM
+Johan Marquardt,jm7044@nittany.edu,21,90004,M,jhdfzk6j,141 Gulf Rd. ,IST
+Zora Gottlieb,zg1956@nittany.edu,18,86443,F,18ujzopj,83 Corona Street ,CHEM
+Mr. Terence Barrows,mt7486@nittany.edu,20,32310,M,pyhzcqqb,963 Court Road ,CHEM
+Karina Heaney V,kh5965@nittany.edu,20,32091,F,6tevyige,461 Heather Street ,PHYS
+Rafaela Towne,rt4621@nittany.edu,18,6039,M,7kg2r96n,266 Second Street ,CSE
+Jonathon Renner,jr8895@nittany.edu,19,71839,F,86avpeyh,336 Myrtle Street ,IST
+Marquis Corkery,mc3632@nittany.edu,20,47833,M,6se8nlut,8378 West Pulaski Ave. ,DS
+Ozella Cremin,oc9673@nittany.edu,21,62288,M,xd3o8mxz,251 West Sheffield Drive ,CMPEN
+Pattie Pouros,pp1292@nittany.edu,21,67642,F,hni8nv4y,87 Vermont St. ,IST
+Sylvester Rogahn,sr8161@nittany.edu,20,46975,F,o4khshi4,9408 Anderson Court ,MATH
+Madeline Beatty,mb3501@nittany.edu,18,33313,M,3z92cca8,78 South Brewery Ave. ,CHEM
+Mr. Talia Reilly,mt2330@nittany.edu,22,61955,M,9yv3xir1,7313 Stillwater Lane ,STAT
+Sean Schmidt,ss2791@nittany.edu,18,50130,F,08i243xw,8401 Green Rd. ,CMPEN
+Leopold Torp,lt1060@nittany.edu,18,83348,F,rfbl7dns,91 S. Gartner Street ,PHYS
+Madaline Monahan DVM,mm9332@nittany.edu,21,95757,M,532k3czr,185 E. Trenton Street ,IST
+Mittie Kuvalis,mk2051@nittany.edu,18,92107,M,ap25n3ab,7297 Applegate St. ,STAT
+Jamarcus Kutch,jk9270@nittany.edu,19,71842,M,1ryphig3,6 Andover Dr. ,ECON
+Lacey Cremin,lc9556@nittany.edu,22,50034,F,ryeicg8y,9599 La Sierra St. ,STAT
+Jalen Stanton,js1332@nittany.edu,21,72469,F,93y7sv9c,361 E. Sierra Street ,STAT
+Shaun Schamberger,ss5447@nittany.edu,18,34653,M,15xkc9gi,91 S. Gartner Street ,STAT
+Mrs. Adrain Howe,ma2722@nittany.edu,19,90010,F,znklaesk,9659 Rosewood Drive ,IST
+Shania Walker V,sw9710@nittany.edu,22,93401,M,3n0anbkn,78 South Brewery Ave. ,ECON
+Shane Mayer,sm6158@nittany.edu,18,72760,M,8ho2ylkn,8378 West Pulaski Ave. ,MATH
+Mr. Lurline Green,ml5064@nittany.edu,21,62803,M,xlcl3olo,798 North Euclid Drive ,CMPSC
+Kendra Hessel,kh1154@nittany.edu,21,6235,M,5v0x2i2u,9236 El Dorado St. ,STAT
+Keshaun Terry,kt5956@nittany.edu,20,6606,M,qgxo5n12,9408 Anderson Court ,MATH
+Katelin Rippin DDS,kr9918@nittany.edu,21,33181,M,cndejauu,608 North Addison St. ,ECON
+Kaia Orn,ko8925@nittany.edu,21,47025,F,r0wetv5d,182 Spring Street ,PHYS
+Marietta Fisher,mf6881@nittany.edu,19,60041,M,0o5ugfpb,285 Dogwood Drive ,ECON
+Mrs. Krystal Buckridge,mk4451@nittany.edu,22,32043,M,9ibxvx8f,251 West Sheffield Drive ,ECON
+Shanna Murray,sm5255@nittany.edu,19,61938,F,ottq8l4h,8401 Green Rd. ,ECON
+Rodrigo Bins,rb2832@nittany.edu,21,6754,F,u023nh0i,461 Heather Street ,PHYS
+Jakayla Rogahn,jr3224@nittany.edu,18,30470,F,2pn9hkyw,780 East Redwood Drive ,IST
+Khalil Tremblay,kt2050@nittany.edu,20,31094,M,rxsuefl3,18 Lakeview Street ,DS
+Woodrow Daugherty,wd2661@nittany.edu,21,95315,F,7p0w4sw8,453 North Elm Dr. ,ECON
+Rosa Fahey,rf1975@nittany.edu,20,62943,F,937d9lsa,308 Mammoth Dr. ,PHYS
+Miss Neoma Pfannerstill,mn9410@nittany.edu,18,32038,F,exkdo0ql,7764 Union Avenue ,PHYS
+Stella Reichel,sr4229@nittany.edu,18,83654,F,421s7hyr,461 Heather Street ,MATH
+Titus McClure,tm5315@nittany.edu,20,33982,M,ybftdlvn,963 Court Road ,ECON
+Leo Schneider,ls2077@nittany.edu,20,33145,M,zb72v3ys,963 Court Road ,IST
+Rodrick Ratke,rr4724@nittany.edu,18,6088,F,hif5wgha,83 Corona Street ,EE
+Quinton Johnston,qj6035@nittany.edu,20,62254,M,jc5mjn4j,336 Myrtle Street ,STAT
+Justus Prosacco,jp6334@nittany.edu,22,81410,F,jtpv3g6o,336 Myrtle Street ,CSE
+Madeline Smith,ms6805@nittany.edu,20,62355,M,2ki3shs0,655 East Branch Dr. ,IST
+Sallie McDermott,sm4829@nittany.edu,18,72014,M,5cjv882q,9659 Rosewood Drive ,CHEM
+Mireya Pouros,mp8264@nittany.edu,22,60450,M,7f94l7s0,608 North Addison St. ,IST
+Mrs. Daryl Beier,md9837@nittany.edu,21,61484,M,b72x34cx,495 Jockey Hollow Ave. ,STAT
+Marisol Crona,mc9587@nittany.edu,18,31216,F,o7rl1udy,7195 North Canterbury Circle ,CHEM
+Wava Anderson IV,wa5127@nittany.edu,18,47725,M,h7waj302,141 Gulf Rd. ,DS
+Miss Paul Hills,mp8748@nittany.edu,22,52208,M,pxfwcqxb,26 Johnson St. ,MATH
+Velma Lebsack,vl5929@nittany.edu,21,50067,M,rof5jch8,9498 Newport Ave. ,CHEM
+Mrs. Deja Mosciski,md8760@nittany.edu,21,61028,F,bkiff3gh,336 Myrtle Street ,CMPSC
+Rosie Huel,rh1754@nittany.edu,22,62690,M,08ddd6ps,608 North Addison St. ,EE
+Marcelina Collins,mc2699@nittany.edu,19,32578,M,gvftq3ee,9236 El Dorado St. ,DS
+Joel Hammes,jh9891@nittany.edu,18,31523,M,ra3xf3g2,863 Stillwater Road ,IST
+Ismael Von,iv6531@nittany.edu,19,47167,F,aa8obunx,798 North Euclid Drive ,IST
+Ivory Reichert,ir2135@nittany.edu,19,32805,M,7m9wcg8w,7 Arch Court ,DS
+Mae Rolfson,mr1874@nittany.edu,18,93033,F,otcje7py,655 East Branch Dr. ,STAT
+Rowland Roob V,rr7213@nittany.edu,21,61863,F,wgtnbh1o,259 Cleveland Road ,CHEM
+Rigoberto Huel,rh6801@nittany.edu,19,31774,M,ungqga6k,8985 Cambridge Ave. ,CSE
+Mr. Jasen Stracke,mj1770@nittany.edu,18,50171,F,ehf2dmzk,18 Lakeview Street ,MATH
+Ms. Maci Schamberger,mm6107@nittany.edu,21,66515,M,5yczj6oj,7313 Stillwater Lane ,IST
+Mrs. Amparo Bahringer,ma4550@nittany.edu,22,80116,M,99wxwmdm,7313 Stillwater Lane ,MATH
+Jarret Mante,jm2995@nittany.edu,22,46745,F,jolwy2s0,4 Old Academy Drive ,ECON
+Monica Zieme,mz7054@nittany.edu,19,33167,F,ct9v66xc,9408 Anderson Court ,DS
+Kevon McDermott,km3504@nittany.edu,21,61239,M,ggt4hfj9,7297 Applegate St. ,ECON
+Ophelia Murphy,om9683@nittany.edu,19,32087,F,30cb43o7,232 W. Homewood Ave. ,STAT
+Jeanne Marquardt,jm6846@nittany.edu,18,50613,M,3hbwxyko,232 W. Homewood Ave. ,EE
+Jarrett Kessler,jk4828@nittany.edu,20,33016,M,q0ssowih,119 Harvey Street ,CMPEN
+Rafaela Legros,rl4225@nittany.edu,21,72856,M,k0t192jm,232 W. Homewood Ave. ,MATH
+Madelynn Grimes,mg8599@nittany.edu,19,33704,M,dwq6vie7,7 Arch Court ,PHYS
+Leonel Beahan V,lb9630@nittany.edu,20,80231,F,1ac5j9hy,7764 Union Avenue ,PHYS
+Price Parker,pp1200@nittany.edu,21,94041,F,9hg8nilg,285 Dogwood Drive ,DS
+Stephen Ward,sw4720@nittany.edu,19,96035,M,0v91h6mw,308 Mammoth Dr. ,DS
+Leon Morissette,lm1801@nittany.edu,21,61275,F,zrzby18o,8401 Green Rd. ,STAT
+Mackenzie Halvorson,mh9954@nittany.edu,18,93060,F,gysd8ywq,18 Lakeview Street ,PHYS
+Kara Wiegand I,kw1386@nittany.edu,21,83846,M,9sr4krcq,232 W. Homewood Ave. ,ECON
+Pascale Abbott,pa6499@nittany.edu,21,60712,M,y8692wws,251 West Sheffield Drive ,CHEM
+Scot Will Jr.,sw3767@nittany.edu,20,61037,M,pwnt950j,259 Cleveland Road ,EE
+Rashad Larson,rl7115@nittany.edu,19,66711,M,ibm2bo3e,7 Arch Court ,EE
+Savanna Brakus,sb4094@nittany.edu,21,60031,M,krp1pkam,8378 West Pulaski Ave. ,STAT
+Lolita Moore,lm3612@nittany.edu,20,30513,F,0djua4jk,453 North Elm Dr. ,CHEM
+Maritza McKenzie,mm7898@nittany.edu,19,90605,M,yh7imzim,55 Hall St. ,ECON
+Sammy Douglas V,sd7475@nittany.edu,22,47725,F,mmw3lwvp,780 East Redwood Drive ,MATH
+Marta Zieme DDS,mz3667@nittany.edu,22,95660,M,ntwa6o22,4 Old Academy Drive ,CMPSC
+Mrs. Oma Veum,mo1767@nittany.edu,21,85009,F,uhxeokud,119 Harvey Street ,MATH
+Marco Schaefer,ms1481@nittany.edu,18,86545,M,yxwumm5l,55 Hall St. ,DS
+Wilson Runte,wr2752@nittany.edu,18,47201,M,whmc8nsh,26 Johnson St. ,ECON
+Odessa Upton,ou9392@nittany.edu,22,90704,F,9oes49js,8687 N. Sleepy Hollow Court ,CHEM
+Melyna Lindgren,ml9111@nittany.edu,19,32003,F,1zvudew1,8378 West Pulaski Ave. ,CMPSC
+Leon Hettinger,lh5555@nittany.edu,19,30802,M,tgsfcg7u,8687 N. Sleepy Hollow Court ,MATH
+Retha Schamberger,rs3074@nittany.edu,22,61928,F,e1lek9bw,185 E. Trenton Street ,MATH
+Mr. Brionna Padberg,mb2986@nittany.edu,22,50428,M,yppqbd8m,860 Wakehurst Dr. ,CSE
+Myrtie Hilpert,mh2194@nittany.edu,21,72367,F,z0ak5f78,336 Myrtle Street ,EE
+Shayna Greenfelder V,sg9224@nittany.edu,18,93616,F,xpddtqtt,83 Corona Street ,CHEM
+Susanna Lueilwitz,sl9147@nittany.edu,22,33974,M,vjp9fvw3,7195 North Canterbury Circle ,IST
+Tanya Zulauf,tz1637@nittany.edu,19,66516,M,z8brxxr2,9498 Newport Ave. ,MATH
+Beau Krajcik,bk5477@nittany.edu,21,31217,F,fv67v7ud,780 East Redwood Drive ,CMPEN
+Aurelia Ferry,af2362@nittany.edu,22,46785,M,u9sweo7t,78 South Brewery Ave. ,CHEM
+Asa Tromp,at5855@nittany.edu,19,83833,F,rpc0ecr4,9420 Tallwood Street ,EE
+Bailee Bernhard,bb2708@nittany.edu,19,50655,M,2z5x0wq9,8985 Cambridge Ave. ,IST
+Axel Blanda,ab1769@nittany.edu,18,90803,F,ymt3iyum,655 East Branch Dr. ,MATH
+Arturo Schoen,as5959@nittany.edu,18,72762,F,c0hgfkxn,185 E. Trenton Street ,CHEM
+Annabell Schuppe I,as3517@nittany.edu,21,50668,F,y6e4oxeo,7 Arch Court ,PHYS
+Ashly McGlynn,am9248@nittany.edu,21,80516,M,mpx009eg,639 Princeton Rd. ,CMPEN
+Augustine Bednar,ab2069@nittany.edu,21,94950,M,lx2hz60s,708 York Dr. ,ECON
+Ardith Buckridge,ab3353@nittany.edu,20,95231,M,p0itvgwk,9659 Rosewood Drive ,CSE
+Antonette Gleason,ag4144@nittany.edu,19,93267,F,c8tpvxdf,91 S. Gartner Street ,EE
+Annette Erdman III,ae4536@nittany.edu,19,31711,F,mxdgxmjn,7764 Union Avenue ,CMPEN
+Austen Schultz,as6603@nittany.edu,20,92004,M,fzkbxbiu,7764 Union Avenue ,CMPSC
+Antone Spinka,as6904@nittany.edu,22,34711,F,f096f3px,266 Second Street ,DS
+Angie Howell DVM,ah4627@nittany.edu,20,34602,M,3t52wwlg,7450 West Manchester Street ,MATH
+Anita Cremin,ac6117@nittany.edu,19,90033,F,17ow7v6r,259 Cleveland Road ,MATH
+Baby Stokes,bs3099@nittany.edu,22,60536,F,7398f1v0,91 S. Gartner Street ,PHYS
+Antonio Rice,ar5750@nittany.edu,21,6091,M,cu9pnq8n,461 Heather Street ,PHYS
+Bailee Keebler,bk4164@nittany.edu,18,50585,M,t26x25az,63 Lake Forest Road ,CSE
+Annette Heathcote,ah1893@nittany.edu,19,83830,F,p6q31twb,9599 La Sierra St. ,IST
+Arturo Stiedemann,as4372@nittany.edu,19,33027,F,msf24v3r,639 Princeton Rd. ,CMPEN
+Arianna Hayes,ah8649@nittany.edu,21,6477,F,vjy43dwn,798 North Euclid Drive ,CSE
+Barbara Lynch,bl7521@nittany.edu,22,85352,F,rv6h5k9v,461 Heather Street ,CSE
+Baron Pacocha,bp1701@nittany.edu,22,33884,M,fms2vvht,655 East Branch Dr. ,PHYS
+Ardith Hettinger,ah2132@nittany.edu,20,33037,M,kp2yck94,461 Heather Street ,STAT
+Assunta Walsh,aw9070@nittany.edu,19,30222,F,7zryi69f,8985 Cambridge Ave. ,PHYS
+Arnulfo Paucek,ap7012@nittany.edu,19,6450,M,0ahwidu1,4 Old Academy Drive ,STAT
+Anika Walsh,aw1897@nittany.edu,18,31634,M,ieerwn8d,863 Stillwater Road ,EE
+Antonina Brekke,ab3016@nittany.edu,22,80022,M,xkw7v0ch,336 Myrtle Street ,DS
+Ari Simonis,as7706@nittany.edu,22,85328,M,qe5jz5ek,655 East Branch Dr. ,DS
+Ayana Wilkinson,aw2413@nittany.edu,20,32535,F,61t53q20,141 Gulf Rd. ,CMPSC
+Annabelle Block,ab4636@nittany.edu,19,6897,F,7j28vvzc,308 Mammoth Dr. ,STAT
+Arianna Yost,ay6012@nittany.edu,18,61036,F,ps7agu40,8687 N. Sleepy Hollow Court ,EE
+Angelo Macejkovic,am1296@nittany.edu,20,95503,F,8rkn1rx3,185 E. Trenton Street ,PHYS
+Cicero O'Kon,co9856@nittany.edu,19,51455,F,no2dsq6k,9420 Tallwood Street ,DS
+Bettie Gibson II,bg1874@nittany.edu,18,62532,F,3nwq2ezo,8985 Cambridge Ave. ,IST
+Carter Zboncak,cz9116@nittany.edu,19,60457,F,3rzaa57p,495 Jockey Hollow Ave. ,STAT
+Claire Haley,ch1256@nittany.edu,18,80432,M,qm4tj1ve,141 Gulf Rd. ,CMPSC
+Ahmed Marks,am2658@nittany.edu,21,83342,M,2554uc0w,18 Lakeview Street ,MATH
+Cody Gislason,cg4965@nittany.edu,18,93604,F,hq5l3bz8,453 North Elm Dr. ,STAT
+Cyrus Haag,ch2187@nittany.edu,18,30912,M,afkpa2ws,860 Wakehurst Dr. ,CMPEN
+Charlotte Donnelly,cd3328@nittany.edu,20,46902,F,k6a80kp9,259 Cleveland Road ,EE
+Bethany Bernhard,bb2169@nittany.edu,21,46140,F,scpn2dpp,358 Marvon Ave. ,ECON
+Abigale Jewess,aj2734@nittany.edu,21,67880,M,yi3qshz1,608 North Addison St. ,CMPSC
+Cade Spinka Jr.,cs3661@nittany.edu,22,62082,F,2vu5sf3s,7313 Stillwater Lane ,CMPSC
+Alden Lind,al7553@nittany.edu,22,61928,F,0fn7cx6r,18 Lakeview Street ,CMPEN
+Danny Goldner,dg3029@nittany.edu,22,50475,M,0bn8gx77,7450 West Manchester Street ,EE
+Aida Wilderman,aw5441@nittany.edu,19,61822,F,8jz2y2a5,8378 West Pulaski Ave. ,PHYS
+Bessie Reinger,br5296@nittany.edu,21,94607,F,47fu0i8o,9408 Anderson Court ,CHEM
+Cleveland Bins,cb8478@nittany.edu,19,95316,M,8vc64p5v,83 Corona Street ,IST
+Damien Hudson,dh5107@nittany.edu,19,32776,F,pfvpn4hn,232 W. Homewood Ave. ,PHYS
+Brice Pacocha,bp7844@nittany.edu,22,95318,F,b98cyqy7,9420 Tallwood Street ,CMPEN
+Cody Gutkowski,cg4094@nittany.edu,19,52342,F,p9z2n632,9420 Tallwood Street ,ECON
+Cameron Osinski,co3033@nittany.edu,20,30101,F,0n1e6pnc,7529 Old Sunset Road ,CHEM
+Dandre Kassulke,dk6748@nittany.edu,21,91604,F,fhdtpgwv,798 North Euclid Drive ,IST
+Alexandrea Goodwin,ag2003@nittany.edu,21,95385,M,1diivr7z,7 Arch Court ,STAT
+Brody Hackett,bh9149@nittany.edu,20,94937,F,o1rt4cbf,78 South Brewery Ave. ,CMPEN
+Alanis Stracke,as3353@nittany.edu,19,31787,F,crailqp3,639 Princeton Rd. ,ECON
+Bernadine Koelpin,bk6824@nittany.edu,18,95540,F,142xk754,251 West Sheffield Drive ,CMPEN
+Damon Shields,ds4127@nittany.edu,22,34797,F,ti45130u,63 Lake Forest Road ,CMPSC
+Alexane Cremin PhD,ac5862@nittany.edu,21,92625,F,uvhbxp40,9659 Rosewood Drive ,PHYS
+Cleo Kub,ck2097@nittany.edu,19,46051,F,2x8rf35c,259 Cleveland Road ,EE
+Carleton Flatley,cf2840@nittany.edu,22,32257,F,8lhl9t10,8687 N. Sleepy Hollow Court ,IST
+Berta Reichert,br8852@nittany.edu,20,91710,F,6f3z7kb0,9236 El Dorado St. ,CSE
+Calista Reichel,cr7454@nittany.edu,19,52570,F,6jcorz9a,7313 Stillwater Lane ,MATH
+Carolyne Herman,ch9754@nittany.edu,22,34488,M,ajkwwmzd,9408 Anderson Court ,CMPEN
+Dameon Herman,dh6358@nittany.edu,19,71827,M,3c34iijt,87 Vermont St. ,STAT
+Blaze Jaskolski,bj2880@nittany.edu,21,85736,M,du41ksn8,9599 La Sierra St. ,CMPEN
+Celestino Hilll,ch3297@nittany.edu,20,34691,M,3l51ofow,655 East Branch Dr. ,IST
+Abbey Kunde,ak5096@nittany.edu,21,32563,M,cl82fa7j,8985 Cambridge Ave. ,PHYS
+Abigayle Goldner,ag1594@nittany.edu,18,83666,M,bjppzwgj,285 Dogwood Drive ,EE
+Brandi Bergstrom,bb3021@nittany.edu,20,90704,F,jwnn3kbs,7130 Longfellow Dr. ,MATH
+Abe Wintheiser,aw8623@nittany.edu,21,92025,M,2ug8r41a,141 Gulf Rd. ,ECON
+Caesar Rath II,cr5283@nittany.edu,19,61814,M,gjmnphk1,9498 Newport Ave. ,DS
+Chloe Nienow,cn5833@nittany.edu,21,80648,M,r18uqmoj,9659 Rosewood Drive ,PHYS
+Beverly Muller,bm9506@nittany.edu,21,81019,F,ajfck44r,963 Court Road ,IST
+Casimer Runolfsdottir IV,cr7460@nittany.edu,19,47369,M,2s9glbub,259 Cleveland Road ,CMPEN
+Adell Bradtke,ab8172@nittany.edu,19,90621,M,avpdvzzg,963 Court Road ,PHYS
+Crawford Romaguera,cr8911@nittany.edu,20,52649,M,xh1z5q3c,863 Stillwater Road ,CSE
+Aimee Schowalter,as9069@nittany.edu,19,67020,M,21ch6o1g,963 Court Road ,CHEM
+Brannon Bins,bb4483@nittany.edu,22,72628,F,ib658n92,9599 La Sierra St. ,CSE
+Cade Wilderman,cw7585@nittany.edu,20,86045,M,6thcq3ka,18 Lakeview Street ,ECON
+Alden Murazik,am3245@nittany.edu,19,93610,M,y9hmo2y1,55 Hall St. ,CSE
+Chad Breitenberg,cb2134@nittany.edu,22,33013,F,iu6rvymu,87 Vermont St. ,MATH
+Adelia Huels,ah8299@nittany.edu,19,33541,F,pc2li9jb,608 North Addison St. ,PHYS
+Brian Huel,bh1407@nittany.edu,22,30135,F,0sr7srbq,7195 North Canterbury Circle ,CMPEN
+Crystal Keebler,ck4064@nittany.edu,22,46110,F,7lsd8u6o,232 W. Homewood Ave. ,IST
+Cali Reichert,cr7030@nittany.edu,22,95540,F,0okfdvzu,119 Harvey Street ,PHYS
+Abel Anderson Sr.,aa2256@nittany.edu,22,33154,F,hj0n3pp5,8985 Cambridge Ave. ,PHYS
+Cassie Reynolds,cr7834@nittany.edu,21,47456,F,o5p7oizf,7195 North Canterbury Circle ,CMPSC
+Clovis Tillman,ct2924@nittany.edu,21,6409,M,20aadwv7,9599 La Sierra St. ,CMPEN
+Branson Wiegand Jr.,bw8893@nittany.edu,21,47850,M,qocb0jon,453 North Elm Dr. ,STAT
+Carolyn Greenfelder,cg7136@nittany.edu,19,30464,F,xy9mo4ch,55 Hall St. ,MATH
+Cierra Christiansen,cc2445@nittany.edu,21,60963,M,nc83dfhd,608 North Addison St. ,MATH
+Carley Collins,cc1235@nittany.edu,21,91803,F,32gvv474,285 Dogwood Drive ,STAT
+Chanelle Armstrong,ca6499@nittany.edu,18,32449,F,50oqcctn,83 Corona Street ,CMPSC
+Coby Quitzon,cq4861@nittany.edu,20,67144,F,tw5426ed,7313 Stillwater Lane ,EE
+Candice Nikolaus,cn5368@nittany.edu,20,95757,M,evxf35zl,7130 Longfellow Dr. ,CMPEN
+Bernhard Lakin I,bl4092@nittany.edu,21,96059,M,1dtdo40q,7764 Union Avenue ,CMPEN
+Breanne Ankunding,ba4903@nittany.edu,21,34241,F,00i72mf0,358 Marvon Ave. ,CHEM
+Clare Wilderman,cw6141@nittany.edu,19,6854,M,i6uh8tg6,7529 Old Sunset Road ,DS
+Casey Mann,cm4400@nittany.edu,19,62677,F,nvxhowyn,8401 Green Rd. ,CMPEN
+Caterina Keebler,ck6661@nittany.edu,19,47260,F,y3ujhb8l,7313 Stillwater Lane ,CHEM
+Cassie Ondricka,co5263@nittany.edu,21,32139,F,o00ttgut,9599 La Sierra St. ,STAT
+Cooper Schamberger,cs4243@nittany.edu,22,81027,M,45ncapyh,708 York Dr. ,CMPEN
+Bert Cole,bc4962@nittany.edu,21,50309,M,ksq8h86c,87 Vermont St. ,EE
+Aiden Feeney,af8503@nittany.edu,19,33162,M,wm1cdnuo,9659 Rosewood Drive ,EE
+Ada Morissette,am6323@nittany.edu,18,62232,F,9jwi71sj,232 W. Homewood Ave. ,CMPSC
+Berry Paucek V,bp7877@nittany.edu,19,94509,M,vwy31jv7,9408 Anderson Court ,PHYS
+Constantin West,cw7068@nittany.edu,21,62058,M,1zvd1snn,83 Corona Street ,CMPEN
+Beau Langosh V,bl6052@nittany.edu,21,6612,F,qgdussoj,461 Heather Street ,EE
+Constance Spencer,cs2006@nittany.edu,21,61358,M,px5st392,780 East Redwood Drive ,EE
+Alek Harªann,ah6141@nittany.edu,22,83464,M,cqbh45an,7764 Union Avenue ,PHYS
+Carmella Schmitt DDS,cs3754@nittany.edu,21,62675,M,4ad4so3q,9408 Anderson Court ,ECON
+Bettie Keeling,bk6475@nittany.edu,21,91915,M,ms07pcfx,780 East Redwood Drive ,MATH
+Carrie Heidenreich,ch6057@nittany.edu,21,60184,M,u618ku61,88 Harrison Street ,CMPEN
+Alan Roob,ar9287@nittany.edu,21,72079,F,44vdzjle,4 Old Academy Drive ,ECON
+Brent Murphy,bm6234@nittany.edu,20,30093,F,mesb9dvn,8131 Elizabeth Ave. ,DS
+Belle Shanahan,bs1006@nittany.edu,20,81325,M,z1wbo8rz,8401 Green Rd. ,CMPSC
+Clemmie Auer,ca5845@nittany.edu,21,66429,M,zfwpjz8k,453 North Elm Dr. ,IST
+Chadrick Bahringer,cb6121@nittany.edu,18,61776,F,9ud209h4,655 East Branch Dr. ,CMPEN
+Danika Howe,dh5008@nittany.edu,22,61753,M,17wgtqdn,9659 Rosewood Drive ,MATH
+Abigayle Lind Sr.,al8943@nittany.edu,20,96797,M,ctvqpw3f,7450 West Manchester Street ,CMPSC
+Abigayle Kuphal II,ak5890@nittany.edu,21,31554,F,xi209spb,7529 Old Sunset Road ,MATH
+Cleveland Altenwerth DDS,ca1975@nittany.edu,22,19941,F,0nj3c33c,798 North Euclid Drive ,DS
+Alene Strosin,as2674@nittany.edu,19,50455,M,lsrte554,9236 El Dorado St. ,CMPEN
+Clarissa Kessler,ck4873@nittany.edu,19,62001,F,v2cjbrvc,963 Court Road ,CHEM
+Daniela Roberts,dr8416@nittany.edu,18,60707,M,045ar2mf,9599 La Sierra St. ,ECON
+Carmela Schowalter,cs5417@nittany.edu,21,72947,F,pcccpp55,7764 Union Avenue ,STAT
+Bessie Dooley,bd6345@nittany.edu,19,33873,F,8f2lqduk,7529 Old Sunset Road ,IST
+Braden Legros,bl3745@nittany.edu,22,61071,M,8i6is0ah,9420 Tallwood Street ,EE
+Brannon Olson,bo5114@nittany.edu,18,46268,F,rjpdf3er,78 South Brewery Ave. ,ECON
+Carolina Keebler,ck8437@nittany.edu,20,50511,M,zkvrp5jt,863 Stillwater Road ,EE
+Abbey Gulgowski,ag5931@nittany.edu,18,91803,M,5uvu9byo,7195 North Canterbury Circle ,DS
+Brook Fahey,bf5148@nittany.edu,20,46506,F,9jmi0zwo,453 North Elm Dr. ,CMPSC
+D'angelo Bauch,db2409@nittany.edu,19,95234,F,msl605wk,9236 El Dorado St. ,DS
+Al Schamberger,as2481@nittany.edu,18,32667,M,tj74r303,9599 La Sierra St. ,CSE
+Cathryn Dach MD,cd4187@nittany.edu,20,46774,M,xs85pn08,18 Lakeview Street ,MATH
+Adrian Jacobson I,aj3787@nittany.edu,18,95303,F,957kzj9i,266 Second Street ,CMPEN
+Albin Effertz,ae5810@nittany.edu,21,93615,M,laqw8wy4,251 West Sheffield Drive ,CHEM
+Candido Corwin,cc6232@nittany.edu,22,60458,M,xgedsmm3,8401 Green Rd. ,IST
+Brooklyn Roob,br8383@nittany.edu,19,51033,F,wd4s9vg9,8985 Cambridge Ave. ,ECON
+Damian Cremin,dc8417@nittany.edu,21,62689,F,kmi4uxpg,120 Heritage Lane ,CHEM
+Aditya Powlowski,ap8774@nittany.edu,18,62694,M,v05k1v63,7130 Longfellow Dr. ,STAT
+Bryce Beahan,bb4001@nittany.edu,18,95717,F,thufxhze,7764 Union Avenue ,DS
+Carol Price,cp9426@nittany.edu,18,47802,F,y8x1jptl,91 S. Gartner Street ,ECON
+Dane Hirthe,dh7522@nittany.edu,18,61049,M,1va14zi3,119 Harvey Street ,CHEM
+Alexandre O'Hara,ao3325@nittany.edu,20,32218,M,p7zeye92,461 Heather Street ,EE
+Catharine Stamm,cs4540@nittany.edu,19,80203,F,hqjkh5qw,251 West Sheffield Drive ,IST
+Cecilia Wilderman,cw3561@nittany.edu,18,93657,F,ld6euu2f,798 North Euclid Drive ,CHEM
+Camren Murphy,cm5322@nittany.edu,19,62311,F,g1pp37m7,182 Spring Street ,EE
+Alejandrin Brekke,ab5104@nittany.edu,21,31757,F,ysawmj9y,336 Myrtle Street ,STAT
+Cloyd Walsh,cw1038@nittany.edu,21,32464,F,qe0iy7nq,78 South Brewery Ave. ,DS
+Aisha Wolff II,aw8382@nittany.edu,22,46239,M,n24jab1u,8687 N. Sleepy Hollow Court ,PHYS
+Chaim Batz,cb5065@nittany.edu,20,91941,F,7ypnjh47,285 Dogwood Drive ,CSE
+Breanna Turcotte,bt1573@nittany.edu,18,95824,F,v9p6v25z,87 Vermont St. ,CMPSC
+Citlalli Strosin,cs3610@nittany.edu,21,92131,F,bgqgje4n,285 Dogwood Drive ,CMPEN
+Danny Boyer,db6530@nittany.edu,19,32211,M,ibqumeb3,453 North Elm Dr. ,STAT
+Colton Simonis I,cs1816@nittany.edu,22,62938,M,m6nwqse8,259 Cleveland Road ,EE
+Einar Homenick I,eh3966@nittany.edu,19,81654,F,t9rgkjvk,8687 N. Sleepy Hollow Court ,CMPSC
+Gladyce Langworth,gl5131@nittany.edu,21,30619,F,citvflsq,4 Old Academy Drive ,IST
+Eileen Ullrich,eu6734@nittany.edu,18,67450,F,wiz18kft,863 Stillwater Road ,EE
+Giovanni Jerde,gj1336@nittany.edu,20,83856,M,ukbofbpy,26 Johnson St. ,ECON
+Ferne Emard,fe4839@nittany.edu,22,81320,F,maw8k1p2,88 Harrison Street ,EE
+Elwin Waelchi,ew9592@nittany.edu,21,96701,F,2a5d4gvm,798 North Euclid Drive ,CMPEN
+Earl Dare,ed8801@nittany.edu,22,95680,F,n1otsmb8,259 Cleveland Road ,IST
+Gilda Parisian,gp4162@nittany.edu,20,47805,F,0uek82zt,26 Johnson St. ,ECON
+Ilene Schamberger,is6689@nittany.edu,19,81521,F,gfqase8s,119 Harvey Street ,MATH
+Ila Emmerich,ie2276@nittany.edu,20,6059,M,rzhtvxf3,361 E. Sierra Street ,CMPEN
+Ewald Koelpin,ek4881@nittany.edu,19,32789,F,7sgf01vp,185 E. Trenton Street ,CHEM
+Gerard Jakubowski DDS,gj5319@nittany.edu,18,62548,F,20u4p5x8,461 Heather Street ,ECON
+Domingo Gulgowski,dg3660@nittany.edu,18,80302,F,4qtlequ2,18 Lakeview Street ,IST
+Emmie Mosciski,em6584@nittany.edu,19,52156,F,rj6abnmm,182 Spring Street ,MATH
+Dr. Buster Beahan,db1016@nittany.edu,22,62928,F,qqnuxtqz,3 North Linden Ave. ,CMPSC
+Gilberto Legros,gl1897@nittany.edu,21,85626,F,nwu9w5mv,119 Harvey Street ,CSE
+Dr. Ashton Stehr,da1878@nittany.edu,22,72360,M,ucsw5qmf,9659 Rosewood Drive ,CMPEN
+Elbert Davis,ed7159@nittany.edu,22,51577,M,nfl28k41,285 Dogwood Drive ,CMPSC
+Gardner Rippin,gr5445@nittany.edu,21,46974,M,3nsynvz6,9420 Tallwood Street ,EE
+Floy Koss,fk6517@nittany.edu,20,80744,F,4pvvl7p1,8985 Cambridge Ave. ,CSE
+Elvera Auer Jr.,ea7463@nittany.edu,21,60511,F,cf5aejxt,78 South Brewery Ave. ,IST
+Dolores Ledner,dl7664@nittany.edu,19,67490,F,9s8t276n,963 Court Road ,CSE
+Dr. Karelle Koss,dk5949@nittany.edu,20,30097,M,69gexir6,88 Harrison Street ,PHYS
+Derick O'Hara,do9924@nittany.edu,22,51442,M,70pipr2e,120 Heritage Lane ,PHYS
+Ella Waelchi,ew2287@nittany.edu,20,92113,F,poakps30,8985 Cambridge Ave. ,PHYS
+Dorothy Wunsch,dw8054@nittany.edu,21,61761,F,apbb4k6x,655 East Branch Dr. ,CMPEN
+Friedrich O'Kon II,fo7818@nittany.edu,18,66091,F,5z1mvehd,55 Hall St. ,MATH
+Dortha Ondricka,do2791@nittany.edu,19,62633,M,ew3xk7ww,120 Heritage Lane ,PHYS
+Dr. Leilani Purdy,dl2872@nittany.edu,22,32168,M,hr9gvnwp,9420 Tallwood Street ,ECON
+Hayden Conn,hc9512@nittany.edu,19,95459,F,l9uczvs1,361 E. Sierra Street ,EE
+Frank Williamson,fw9529@nittany.edu,21,30105,F,idkbon4x,461 Heather Street ,IST
+Fausto Bernhard III,fb6120@nittany.edu,22,47926,F,hod33g2g,7450 West Manchester Street ,STAT
+Ethan Johnston,ej6416@nittany.edu,18,80910,M,xgzmz7gb,91 S. Gartner Street ,IST
+Gretchen Spinka I,gs5261@nittany.edu,20,95553,F,im9dpro0,18 Lakeview Street ,IST
+Hayden Schroeder,hs3812@nittany.edu,19,94103,M,yr2i3klq,91 S. Gartner Street ,CMPEN
+Erin Reilly II,er9643@nittany.edu,22,95324,M,x50p3uzk,119 Harvey Street ,DS
+Garett Balistreri,gb9073@nittany.edu,22,30820,M,miklog0x,963 Court Road ,PHYS
+Earl Harvey,eh3135@nittany.edu,19,46721,M,3bhnzahn,182 Spring Street ,MATH
+Darrel Schmitt,ds7254@nittany.edu,20,52801,F,lnjgs77d,361 E. Sierra Street ,CHEM
+Deshawn Williamson,dw8693@nittany.edu,20,62682,M,abcfoz4u,232 W. Homewood Ave. ,CHEM
+Edmond Beatty,eb5700@nittany.edu,22,95060,M,i9hg2u5p,8985 Cambridge Ave. ,CHEM
+Garrison Brekke,gb8971@nittany.edu,20,90401,F,jl6pbnsl,9408 Anderson Court ,CSE
+Eddie Botsford II,eb9702@nittany.edu,21,32568,M,5sq8neye,232 W. Homewood Ave. ,MATH
+Fabian Murphy,fm5811@nittany.edu,20,61231,F,ncm9m5oz,185 E. Trenton Street ,ECON
+Iliana Little,il8896@nittany.edu,19,47386,F,hh2csxcn,266 Second Street ,IST
+Elsa Bernhard,eb7897@nittany.edu,22,62023,M,86efj62b,55 Hall St. ,CSE
+Gabrielle Bednar I,gb9628@nittany.edu,18,32327,M,ixot9bd0,7313 Stillwater Lane ,CSE
+Eula Lockman,el2162@nittany.edu,22,80525,M,meze5wgr,182 Spring Street ,CHEM
+Dr. Zachary Corwin,dz1220@nittany.edu,20,92021,M,0q4zrpw7,91 S. Gartner Street ,DS
+Earline Mitchell,em9606@nittany.edu,22,50538,M,zigib19y,780 East Redwood Drive ,STAT
+Dr. Devante Ritchie,dd7048@nittany.edu,21,61479,F,919nl0rg,182 Spring Street ,EE
+Harvey Becker,hb4427@nittany.edu,18,67843,F,szlotcme,120 Heritage Lane ,CMPSC
+Desiree Ullrich,du5385@nittany.edu,19,62243,F,958ncrhf,495 Jockey Hollow Ave. ,DS
+Delilah Osinski,do7088@nittany.edu,19,51058,M,vtsv9lap,7130 Longfellow Dr. ,PHYS
+Hilbert Hagenes,hh4615@nittany.edu,22,61465,M,1jrl9g2g,251 West Sheffield Drive ,CHEM
+Gerardo Lindgren,gl1181@nittany.edu,19,72342,F,36w1lq62,182 Spring Street ,CSE
+Dr. Sydnie Jacobi,ds7549@nittany.edu,21,60462,M,4f0t44o5,78 South Brewery Ave. ,DS
+Erik Jakubowski,ej6093@nittany.edu,21,62817,F,6c9w263u,9420 Tallwood Street ,CHEM
+Dr. Tomasa Kerluke,dt1755@nittany.edu,21,80011,M,2cqalv1d,4 Old Academy Drive ,CMPEN
+Garrison Haag,gh1031@nittany.edu,18,60002,F,64mrwty5,358 Marvon Ave. ,IST
+Daphnee Greenfelder,dg9379@nittany.edu,21,60563,M,1ty7j48p,185 E. Trenton Street ,CMPEN
+Hiram Quitzon III,hq7130@nittany.edu,21,32801,F,ea1bz0su,708 York Dr. ,PHYS
+Dr. Lizeth Brakus,dl8726@nittany.edu,18,72007,F,luzms3yv,8131 Elizabeth Ave. ,CMPEN
+Faye Keeling DDS,fk3783@nittany.edu,18,33182,F,ndollp4n,63 Lake Forest Road ,CHEM
+Hattie Schmeler,hs3254@nittany.edu,19,86503,M,oolicjki,9408 Anderson Court ,MATH
+Esther Gaylord,eg9777@nittany.edu,18,60471,F,nxaztmsb,780 East Redwood Drive ,MATH
+Elisa Hahn,eh8403@nittany.edu,18,62867,M,6fbe4n5f,708 York Dr. ,EE
+Domenic Grant,dg1041@nittany.edu,21,30143,F,2hraep3u,655 East Branch Dr. ,EE
+Eliezer Wilkinson,ew3399@nittany.edu,19,94597,F,j8dbqrn2,639 Princeton Rd. ,PHYS
+Domenica Ratke,dr5383@nittany.edu,22,46032,F,33gcwtga,185 E. Trenton Street ,STAT
+Ilene Bashirian DVM,ib8603@nittany.edu,19,6785,M,rwnkxe3q,63 Lake Forest Road ,CSE
+Estefania Feest,ef2211@nittany.edu,19,72476,F,pcvwpys8,8131 Elizabeth Ave. ,EE
+Hillary Satterfield,hs6780@nittany.edu,20,51440,F,k47muh9j,266 Second Street ,CHEM
+Dr. Henri Swift,dh7046@nittany.edu,20,32140,M,8ir9plfy,655 East Branch Dr. ,CMPSC
+Gwendolyn Luettgen,gl5818@nittany.edu,18,67749,F,p60j3gfp,7764 Union Avenue ,CHEM
+Gudrun Rowe,gr4392@nittany.edu,19,52314,F,9elp97f2,308 Mammoth Dr. ,PHYS
+Harmony McLaughlin DDS,hm9327@nittany.edu,19,34769,F,ivj4t8l7,361 E. Sierra Street ,CSE
+Emmet Rath,er5239@nittany.edu,18,92210,M,lt2o6bz7,608 North Addison St. ,STAT
+Ernestine Krajcik,ek3642@nittany.edu,21,80031,M,xq9c6pak,963 Court Road ,ECON
+Geovanni Romaguera Jr.,gr4591@nittany.edu,19,62982,M,chgtsi7m,285 Dogwood Drive ,CHEM
+Franco Windler,fw2120@nittany.edu,20,20009,F,uu0g93w1,8131 Elizabeth Ave. ,ECON
+Filiberto Cole,fc5125@nittany.edu,20,46808,M,x2a4uyte,4 Old Academy Drive ,CHEM
+Heaven Howell,hh1524@nittany.edu,20,62324,M,i3vn6szs,55 Hall St. ,CHEM
+Devan Gleichner,dg7321@nittany.edu,22,47436,F,bevy1uqk,182 Spring Street ,DS
+Deondre Prohaska,dp4783@nittany.edu,18,72838,F,kwxx5jy0,453 North Elm Dr. ,STAT
+Gerson Daugherty,gd4593@nittany.edu,20,60955,M,ajy7neci,91 S. Gartner Street ,PHYS
+Darien Guªann,dg7987@nittany.edu,19,50604,M,frzsnvre,8131 Elizabeth Ave. ,CMPEN
+Gonzalo Rice,gr3326@nittany.edu,19,31830,M,zxgp56he,83 Corona Street ,IST
+Dr. Kaitlin Watsica,dk1425@nittany.edu,20,50464,F,r7haxr52,9659 Rosewood Drive ,DS
+Fredy Rutherford,fr1588@nittany.edu,22,30607,M,f27vjkmy,336 Myrtle Street ,DS
+Henderson Conroy,hc6195@nittany.edu,20,95825,M,l29f8zdu,963 Court Road ,CMPSC
+Furman Anderson,fa1972@nittany.edu,22,33406,F,w7whiajz,9236 El Dorado St. ,DS
+Flavio Ferry,ff4897@nittany.edu,22,50836,F,tl5jnyof,63 Lake Forest Road ,EE
+Gage Jenkins,gj7421@nittany.edu,21,92105,F,5qdetelc,7 Arch Court ,DS
+Dr. Keira Walter,dk5850@nittany.edu,18,32784,F,ohh4mwyn,8131 Elizabeth Ave. ,PHYS
+Grayce Haag,gh2561@nittany.edu,19,72165,M,x8bxllty,361 E. Sierra Street ,CSE
+Golden Schimmel,gs2617@nittany.edu,19,6264,F,c30yd3xc,495 Jockey Hollow Ave. ,IST
+Elton Boyle IV,eb3303@nittany.edu,22,51355,F,27nkuhp0,361 E. Sierra Street ,MATH
+Dr. Thurman Hudson,dt1653@nittany.edu,21,83210,M,wdsa15ev,608 North Addison St. ,CHEM
+Elwin Murazik Sr.,em9510@nittany.edu,20,61956,F,1srrimo3,608 North Addison St. ,EE
+Herbert Hansen,hh1856@nittany.edu,20,81125,F,kjzty61o,232 W. Homewood Ave. ,PHYS
+Enid Harris,eh6509@nittany.edu,21,6610,M,pudh3q7q,461 Heather Street ,PHYS
+Halle Mann,hm8630@nittany.edu,20,34983,F,xkeuvdjo,266 Second Street ,PHYS
+Elian Quitzon,eq3640@nittany.edu,19,50147,F,5gopxrcu,8131 Elizabeth Ave. ,EE
+Holden Wilderman,hw8828@nittany.edu,19,62325,F,z79z8qv6,55 Hall St. ,ECON
+Ena Waelchi,ew8925@nittany.edu,22,46573,M,5lx2bx3y,7297 Applegate St. ,ECON
+Enola Kub,ek5867@nittany.edu,21,62092,M,nfqdx36h,9420 Tallwood Street ,DS
+Dr. Molly Hoeger,dm6277@nittany.edu,19,32145,F,w3mm2evm,860 Wakehurst Dr. ,CMPSC
+Ebba Runte Sr.,er2458@nittany.edu,19,50573,M,38y8b748,361 E. Sierra Street ,MATH
+Elyse Wisoky,ew2185@nittany.edu,22,62677,M,y3qo6wcu,266 Second Street ,DS
+Gabriella Pfannerstill,gp3361@nittany.edu,21,34243,F,t18b2zrh,4 Old Academy Drive ,PHYS
+Dexter Hirthe Jr.,dh7362@nittany.edu,21,6811,M,jzfoezkr,863 Stillwater Road ,STAT
+Edward Orn,eo6418@nittany.edu,18,67865,F,18zrf9xy,308 Mammoth Dr. ,CMPSC
+Darrel Armstrong,da3247@nittany.edu,18,20053,M,w6w1dk9x,4 Old Academy Drive ,IST
+Guiseppe Dooley,gd1891@nittany.edu,19,95726,F,jytu2joh,119 Harvey Street ,IST
+Dion Mosciski,dm4287@nittany.edu,18,90270,F,hj4cclt0,182 Spring Street ,IST
+Dr. Josiane Herzog,dj4017@nittany.edu,20,34448,F,cg3nnw0w,8378 West Pulaski Ave. ,DS
+Dorcas Gorczany,dg3528@nittany.edu,22,90064,F,wqxumezb,7529 Old Sunset Road ,STAT
+Ike Weissnat,iw4518@nittany.edu,20,47924,F,1eaym6hq,495 Jockey Hollow Ave. ,STAT
+Dayton Swaniawski,ds8193@nittany.edu,19,94938,M,ywux4080,259 Cleveland Road ,CSE
+Dolly Schulist,ds2879@nittany.edu,18,61015,M,w5fqnpdm,453 North Elm Dr. ,EE
+Hallie Langworth,hl4356@nittany.edu,21,34465,M,fjpasfn0,120 Heritage Lane ,CSE
+Deshaun Weissnat,dw5475@nittany.edu,20,83628,M,6wq0yb12,91 S. Gartner Street ,CMPSC
+Frederique Torphy,ft1093@nittany.edu,21,32211,M,a9vg5adf,7764 Union Avenue ,DS
+Flossie Schoen,fs3719@nittany.edu,19,51443,F,otygfrqd,9236 El Dorado St. ,CSE
+Dorris Schulist,ds2224@nittany.edu,21,85137,M,ghv927fv,639 Princeton Rd. ,CMPSC
+Edwardo Stokes,es8944@nittany.edu,22,91722,M,ungh3o61,120 Heritage Lane ,ECON
+Glennie Turcotte II,gt3176@nittany.edu,21,81019,F,gh7gg5yc,7450 West Manchester Street ,STAT
+Dr. Casandra Walsh,dc7489@nittany.edu,21,86333,M,vlcyuyli,3 North Linden Ave. ,CSE
+Elenora Kessler,ek7386@nittany.edu,18,33004,M,y17twvre,26 Johnson St. ,IST
+Freda Goldner,fg4672@nittany.edu,19,96096,F,vp0hyviy,708 York Dr. ,CHEM
+Dante Auer,da2022@nittany.edu,22,71667,M,pjk5uuph,7195 North Canterbury Circle ,MATH
+Flavie Stokes,fs1546@nittany.edu,20,33178,M,v2ac62yr,83 Corona Street ,PHYS
+Eusebio Wuckert,ew7279@nittany.edu,20,60952,F,tnhnrl2s,26 Johnson St. ,MATH
+Hassan Hagenes,hh9927@nittany.edu,18,47920,M,02r32nem,8131 Elizabeth Ave. ,ECON
+Gerald Dibbert,gd6812@nittany.edu,19,83827,M,uyv380bs,308 Mammoth Dr. ,CSE
+Geraldine Hodkiewicz V,gh4919@nittany.edu,20,95923,M,1kt3b9yp,9420 Tallwood Street ,CMPSC
+Horace Bernier,hb6400@nittany.edu,20,60048,M,do9np1uo,361 E. Sierra Street ,CHEM
+Dr. Luna Goldner,dl4708@nittany.edu,21,61857,F,8izk0vyb,608 North Addison St. ,DS
+Furman Wilkinson,fw1745@nittany.edu,18,95634,M,zqmrasp4,8401 Green Rd. ,CMPSC
+Gunnar Bogan,gb6345@nittany.edu,21,95336,M,61ps0ls8,120 Heritage Lane ,CSE
+Ervin Davis,ed1041@nittany.edu,22,46764,M,c08ymku9,9599 La Sierra St. ,ECON
+Elmira Robel Sr.,er8341@nittany.edu,22,83712,M,sgmnaby3,9236 El Dorado St. ,CMPSC
+Erica Jewess,ej3628@nittany.edu,22,34233,F,2h2zgp0u,26 Johnson St. ,PHYS
+Garett Shields Jr.,gs3266@nittany.edu,18,20540,M,fkxcd7sb,55 Hall St. ,CMPSC
+Dr. Morgan Sanford,dm6239@nittany.edu,20,95742,F,yvon4auv,87 Vermont St. ,CSE
+Florida Hoeger,fh7189@nittany.edu,19,67843,M,lbkrizuu,8131 Elizabeth Ave. ,CHEM
+Gerda Ritchie,gr1809@nittany.edu,18,71834,M,kov519o8,185 E. Trenton Street ,CMPEN
+Henderson Morissette,hm5525@nittany.edu,19,61850,M,pvksy5g9,461 Heather Street ,CMPEN
+Eleazar Greenholt,eg7228@nittany.edu,20,95310,M,nfs52rx9,83 Corona Street ,CHEM
+Elinore Moen,em2859@nittany.edu,22,92707,M,jtcvb5mi,8687 N. Sleepy Hollow Court ,ECON
+Elwyn Gorczany,eg5689@nittany.edu,19,30070,M,kec1tvvq,453 North Elm Dr. ,ECON
+Donnie Conn,dc8436@nittany.edu,21,81521,F,30m8mgg8,83 Corona Street ,IST
+Eugenia Osinski,eo5933@nittany.edu,19,67671,F,5n7rxat6,55 Hall St. ,ECON
+Emanuel Kris,ek2555@nittany.edu,19,6256,F,xuiy7mzm,87 Vermont St. ,ECON
+Ida Blanda,ib9263@nittany.edu,21,92003,F,i2dfgepr,860 Wakehurst Dr. ,CHEM
+Dr. Lloyd Barrows,dl7100@nittany.edu,20,62201,M,4bkr5n7f,461 Heather Street ,PHYS
+Garnett Hessel,gh1212@nittany.edu,22,66869,F,448p81am,9659 Rosewood Drive ,MATH
+Darwin Carroll IV,dc3082@nittany.edu,18,60564,F,vak3gwpe,9498 Newport Ave. ,PHYS
+Eda Marks,em3990@nittany.edu,18,60532,F,f3e9tv4d,308 Mammoth Dr. ,IST
+Doris Koch,dk9439@nittany.edu,18,33815,M,443bieq9,453 North Elm Dr. ,ECON
+Greta Schowalter DDS,gs6695@nittany.edu,21,60657,F,i54i8e4r,7313 Stillwater Lane ,MATH
+Gayle Pollich,gp6880@nittany.edu,19,19940,M,zktkgfvs,860 Wakehurst Dr. ,CMPSC
+Enos Schulist,es9891@nittany.edu,20,91325,F,vb0kg02i,336 Myrtle Street ,CSE
+Domenica Schumm,ds2211@nittany.edu,19,50543,F,uwvxra29,8985 Cambridge Ave. ,DS
+Eugenia Rath,er2244@nittany.edu,19,46260,M,9gzrg9k4,266 Second Street ,MATH
+Dr. Oscar Rath,do8320@nittany.edu,22,32766,F,uo1yl5kn,7529 Old Sunset Road ,DS
+Emmett Rodriguez,er6539@nittany.edu,19,50540,F,23fvo5oo,7529 Old Sunset Road ,CMPEN
+Dean Sporer,ds2123@nittany.edu,22,60958,F,c7h45b7v,798 North Euclid Drive ,CHEM
+Dulce Gulgowski,dg8738@nittany.edu,22,6023,F,xuub6w1z,259 Cleveland Road ,DS
+Deondre Rutherford,dr9676@nittany.edu,19,95412,F,d712nupf,88 Harrison Street ,ECON
+Ezequiel Ratke,er2818@nittany.edu,21,95490,F,n0a9z5fp,6 Andover Dr. ,PHYS
+Gaylord Collins DVM,gc5107@nittany.edu,22,83234,M,ao2yf2ru,7450 West Manchester Street ,DS
+Darion Aufderhar II,da8807@nittany.edu,19,50023,M,0cs9xyii,3 North Linden Ave. ,IST
+Gladyce Kertzmann,gk3247@nittany.edu,20,96074,F,s52yl1va,26 Johnson St. ,MATH
+Hadley Stracke,hs1177@nittany.edu,20,33703,F,xd4a1vbi,7450 West Manchester Street ,CSE
+Hattie Boehm,hb7496@nittany.edu,20,95426,M,gbgrtgkb,9659 Rosewood Drive ,EE
+Harold Durgan,hd3109@nittany.edu,20,32444,M,x6lpxfnx,798 North Euclid Drive ,CMPSC
+Dr. Mariano Collier,dm9701@nittany.edu,18,80264,M,1ekz58ar,266 Second Street ,ECON
+Esmeralda Smith IV,es2273@nittany.edu,20,52583,F,s7vf7d8s,9599 La Sierra St. ,MATH
+Emiliano McCullough,em7352@nittany.edu,21,61326,F,cdessibr,251 West Sheffield Drive ,CSE
+Dr. Reagan Johnston,dr6246@nittany.edu,22,85135,M,fb6id2et,120 Heritage Lane ,CSE
+Dianna Wehner,dw2632@nittany.edu,18,62921,M,2uy51mpb,7313 Stillwater Lane ,MATH
+Deondre Hagenes,dh1318@nittany.edu,19,31309,M,yytd1q6l,8378 West Pulaski Ave. ,DS
+Electa VonRueden,ev8921@nittany.edu,18,62275,F,uv9ce60h,461 Heather Street ,MATH
+Gudrun Ward PhD,gw5806@nittany.edu,21,50454,M,4jjj4cp0,453 North Elm Dr. ,IST
+Dr. Reva Kuhic,dr3255@nittany.edu,21,30566,F,qenoerax,8131 Elizabeth Ave. ,EE
+Deondre Harber,dh3792@nittany.edu,19,83810,F,23b23uk4,285 Dogwood Drive ,ECON
+Doris Cremin,dc5453@nittany.edu,22,50271,F,behfw2pz,655 East Branch Dr. ,CSE
+Fredrick Howell,fh5083@nittany.edu,22,61606,F,219xa2c5,3 North Linden Ave. ,MATH
+Elnora Wilderman,ew8429@nittany.edu,20,92821,F,f3brslrz,7130 Longfellow Dr. ,ECON
+Else Batz,eb2377@nittany.edu,21,61345,M,8uxa5m0p,780 East Redwood Drive ,MATH
+Forrest Ruecker PhD,fr6216@nittany.edu,19,50222,F,sh44t6ty,7764 Union Avenue ,IST
+Eva Blanda,eb9389@nittany.edu,22,93442,F,9x7jrlvr,7450 West Manchester Street ,STAT
+Edmond Effertz I,ee6932@nittany.edu,22,52745,F,eegpby2t,608 North Addison St. ,CSE
+Etha Romaguera,er9391@nittany.edu,18,31220,F,1pmel9s9,83 Corona Street ,CSE
+Dr. Anabel Stoltenberg,da4619@nittany.edu,19,93660,M,dp3zoe6q,232 W. Homewood Ave. ,CHEM
+Dolores Runolfsdottir DDS,dr7544@nittany.edu,20,96783,F,1msis5t3,308 Mammoth Dr. ,CMPEN
+Eliza Jacobi II,ej7700@nittany.edu,21,86502,F,7e90f7qq,8378 West Pulaski Ave. ,CMPEN
+Dr. Foster Langosh,df7770@nittany.edu,21,85027,F,ug376ep9,7529 Old Sunset Road ,STAT
+Dr. Sage Smitham,ds5937@nittany.edu,18,52352,M,ajrdjhxl,780 East Redwood Drive ,CSE
+Halle Koepp,hk5972@nittany.edu,19,95956,M,coevsfej,285 Dogwood Drive ,PHYS
+Darien Gibson,dg6925@nittany.edu,22,33755,M,t03b6hb4,608 North Addison St. ,MATH
+Eldon Macejkovic,em9445@nittany.edu,21,72482,M,n26pn5ng,608 North Addison St. ,MATH
+Gerry Kuvalis Jr.,gk9861@nittany.edu,19,93022,F,t4vk29f9,7 Arch Court ,MATH
+Gregorio Cummings,gc5114@nittany.edu,22,33193,F,9fkl8w6t,266 Second Street ,IST
+Dock Johns,dj1479@nittany.edu,18,20260,M,tn9wg74p,655 East Branch Dr. ,EE
+Hailee Runolfsson,hr2868@nittany.edu,22,85225,F,ggyn6nh9,358 Marvon Ave. ,ECON
+Flossie Bednar,fb4575@nittany.edu,19,80830,F,hkjob0h1,7 Arch Court ,ECON
+Dr. Elton Green,de5828@nittany.edu,18,71851,M,to578yi5,8985 Cambridge Ave. ,PHYS
+Florian Mante,fm5590@nittany.edu,22,92276,F,52ibosdi,798 North Euclid Drive ,CSE
+Frank Ryan,fr8166@nittany.edu,19,46340,F,hwazzxlh,461 Heather Street ,CMPEN
+Dr. Lambert Jaskolski,dl6390@nittany.edu,18,81092,M,jy0in5m2,358 Marvon Ave. ,CMPSC
+Darlene Flatley,df8189@nittany.edu,22,50039,M,fff7sx3o,9408 Anderson Court ,MATH
